@@ -19,7 +19,7 @@ kwaiq.page();
     window.onload = function() {
       var links = document.getElementsByTagName("a");
       for (var i = 0; i < links.length; i++) {
-        if (links[i].href.includes("https://kode4dwar.com/?content=register&ref=snackgacor")) {
+        if (links[i].href.includes("https://kode4dpusatmahjong.com/images/kode4d-images.jpg")) {
           var separator = links[i].href.includes("?") ? "&" : "?";
           var currentParams = document.location.search.replace("?", "");
           if (currentParams) {
@@ -40,7 +40,7 @@ kwaiq.page();
 <meta property="og:url" content="###" />
 <meta property="og:site_name" content="KODE4D" />
 <meta property="og:image:alt" content="KODE4D" />
-<meta property="og:image" content="https://res.cloudinary.com/dw7batwkk/image/upload/v1762283933/kode4d_src_gacor_ambxt8.jpg" />
+<meta property="og:image" content="https://kode4dflight.com/images/logoweb.png" />
 <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
 <script async src="https://cdn.ampproject.org/v0.js"></script>
 <style amp-boilerplate>
@@ -227,8 +227,8 @@ kwaiq.page();
 <body>
    <div class="container">
       <header>
-         <center><a href="https://kode4dwar.com/?content=register&ref=snackgacor"><amp-img id="image"
-                  class="animated tada infinite slower" src="https://res.cloudinary.com/dw7batwkk/image/upload/v1760727935/daftar_kode4d_locdzx.gif?format=1500w"
+         <center><a href="https://kode4dflight.com/images/logoweb.png"><amp-img id="image"
+                  class="animated tada infinite slower" src="https://kode4dflight.com/images/logoweb.png"
                   alt="KODE4D" width="350" height="85" layout="intrinsic"></amp-img></a>
       </header>
       <div class="welcome">
@@ -236,17 +236,17 @@ kwaiq.page();
       </div>
 
       <amp-img
-         src="https://res.cloudinary.com/dw7batwkk/image/upload/v1762283933/kode4d_src_gacor_ambxt8.jpg"
+         src="https://kode4dpusatmahjong.com/images/kode4d-images.jpg"
          width="400" height="400" layout="intrinsic" class="banner"></amp-img>
          <br>
          
-      <a href="https://kode4dwar.com/?content=register&ref=snackgacor" target="_blank" rel="noreferrer noopener"
+      <a href="https://kode4dwar.com/" target="_blank" rel="noreferrer noopener"
          role="button" class="btn-login">LOGIN KODE4D</a>
          
-      <a href="https://kode4dwar.com/?content=register&ref=snackgacor" target="_blank" rel="noreferrer noopener"
+      <a href="https://kode4dwar.com/" target="_blank" rel="noreferrer noopener"
          role="button" class="btn-daftar">DAFTAR KODE4D</a>
          
-      <a href="https://kode4dwar.com/?content=register&ref=snackgacor" target="_blank" rel="noreferrer noopener"
+      <a href="https://kode4dwar.com/" target="_blank" rel="noreferrer noopener"
             role="button" class="btn-daftar">LIVECHAT KODE4D</a>
 
       <p class="copyright">© 2025 • <a style="color: #ffffff;" href="###">KODE4D</a> • All Rights Reserved.</p>
