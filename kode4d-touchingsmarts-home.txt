@@ -9,7 +9,7 @@
     <meta name="theme-color" content="">
 	<meta name="keywords" content="KODE4D, KODE 4D, KODE4D SLOT, KODE4D LOGIN, DAFTAR KODE4D, LOGIN KODE4D, LINK ALTERNATIF KODE4D, APK KODE4D.">
     <link rel="canonical" href="https://touchingsmarts.com/home/">
-    <link rel="amphtml" href="https://KODE4D-official.xyz/amp/KODE4D-touching/" />
+    <link rel="amphtml" href="https://kode4d-official.xyz/amp/kode4d-touching-home/" />
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
     <link rel="icon" type="image/png" href="https://kode4dflight.com/favicon.png">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
@@ -1844,8 +1844,8 @@
   }
  </style>
 <div class="n-columns-2" style="font-size: 20px;">
-<a href="https://KODE4D-official.xyz/amp/KODE4D-touching/" rel="nofollow noreferrer" class="login">LOGIN</a>
-<a href="https://KODE4D-official.xyz/amp/KODE4D-touching/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://kode4d-official.xyz/amp/kode4d-touching-home/" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://kode4d-official.xyz/amp/kode4d-touching-home/" rel="nofollow noreferrer" class="register">DAFTAR</a>
  </div>
  
  <br>
