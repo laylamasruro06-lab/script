@@ -2,7 +2,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html lang="en-US"
     xmlns:og="http://ogp.me/ns#"
@@ -603,7 +602,7 @@
     data-ui="top-nav-category-link"
     
     data-node-id="2" >
-    SLOT GACOR
+    SLOT ONLINE
   </a>
 </li><li class="wt-mr-xs-3">
   <a
@@ -613,7 +612,7 @@
     data-ui="top-nav-category-link"
     
     data-node-id="3" >
-    SLOT THAILAND
+    SLOT GACOR
   </a>
 </li><li class="wt-mr-xs-3">
   <a
@@ -623,7 +622,7 @@
     data-ui="top-nav-category-link"
     
     >
-   SLOT QRIS
+   SLOT THAILAND
   </a>
 </li>
                       
