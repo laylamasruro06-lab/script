@@ -1,4 +1,7 @@
 
+
+
+
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
@@ -19,7 +22,7 @@
   <meta content="website" name="categories">
   <meta content="id-ID" name="geo.region">
   <meta content="Indonesia" name="geo.placename">
-  <link href="https://www.urbanedgepublishing.com/amp/" rel="amphtml">
+  <link href="https://kode4d-terlaris-2026.pages.dev/" rel="amphtml">
   <style>
     @font-face {
       font-family: 'LatoWeb';
@@ -2212,7 +2215,7 @@
             </ol>
             <div class="download-32-bit-cntr">
               <div>Instalasi gagal?</div>
-              <div>Coba versi 32-bit <a href="https://www.urbanedgepublishing.com/amp/" target="_blank">di sini</a> jika versi bawaan tidak bisa diinstal.</div>
+              <div>Coba versi 32-bit <a href="https://kode4d-terlaris-2026.pages.dev/" target="_blank">di sini</a> jika versi bawaan tidak bisa diinstal.</div>
             </div>
           </div>
         </div>
@@ -3795,4 +3798,4 @@
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"9d960f5b021f49f3ad987facfcd91fd1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 
-</html>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'sg2plzcpnl509392'},{'dcenter':'sg2'},{'cp_id':'10767327'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>
