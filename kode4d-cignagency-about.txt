@@ -1,7 +1,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html lang="en-US"
     xmlns:og="http://ogp.me/ns#"
@@ -34,7 +33,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://touchingsmarts.com/about/",
+  "url": "https://cignagency.com/about-us/",
   "name": "KODE4D # Situs Slot Online Resmi Dengan Permainan Terlengkap Link Kode 4D Pasti Gacor Maksimal",
   "sku": "907486452",
   "description": "KODE4D sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya.",
@@ -132,12 +131,12 @@
           "@type": "ListItem",
           "position": 1,
           "name": "KODE4D",
-          "item": "https://touchingsmarts.com/about/"
+          "item": "https://cignagency.com/about-us/"
         }, {
           "@type": "ListItem",
           "position": 2,
           "name": "SLOT GACOR",
-          "item": "https://touchingsmarts.com/about/"
+          "item": "https://cignagency.com/about-us/"
         }, {
           "@type": "ListItem",
           "position": 3,
@@ -210,27 +209,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://touchingsmarts.com/about/#org",
+      "@id": "https://cignagency.com/about-us/#org",
       "name": "KODE4D",
-      "url": "https://touchingsmarts.com/about/",
+      "url": "https://cignagency.com/about-us/",
       "logo": "https://new-seo.xyz/images/perang4.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://touchingsmarts.com/about/#website",
-      "url": "https://touchingsmarts.com/about/",
+      "@id": "https://cignagency.com/about-us/#website",
+      "url": "https://cignagency.com/about-us/",
       "name": "KODE4D",
-      "publisher": { "@id": "https://touchingsmarts.com/about/#org" },
+      "publisher": { "@id": "https://cignagency.com/about-us/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://touchingsmarts.com/about/?s={search_term_string}",
+        "target": "https://cignagency.com/about-us/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://touchingsmarts.com/about/#app",
+      "@id": "https://cignagency.com/about-us/#app",
       "name": "KODE4D",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -244,13 +243,13 @@
         <meta name="twitter:site" content="@KODE4D" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="KODE4D" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/907486452?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="KODE4D" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/907486452?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="KODE4D" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/907486452?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
 <meta property="og:title" content="KODE4D # Situs Slot Online Resmi Dengan Permainan Terlengkap Link Kode 4D Pasti Gacor Maksimal - KODE4D Indonesia" />
 <meta property="og:description" content="KODE4D sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya." />
-<meta property="og:type" content="product" /><meta property="og:url" content="https://touchingsmarts.com/about/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://new-seo.xyz/images/perang4.jpg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://cignagency.com/about-us/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://new-seo.xyz/images/perang4.jpg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
 <meta property="al:ios:url" content="etsy://listing/907486452?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="KODE4D" /><meta property="al:android:url" content="etsy://listing/907486452?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="KODE4D" />
 <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://new-seo.xyz/images/perang4.jpg" fetchpriority="high" />
 
-<link rel="canonical" href="https://touchingsmarts.com/about/" />
-<link rel="amphtml" href="https://amp-kode4d.xyz/amp/kode4d-touchingsmarts/" />
-<link rel="alternate" href="https://touchingsmarts.com/about/" hreflang="en" /><link rel="alternate" href="https://touchingsmarts.com/about/fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://touchingsmarts.com/about/au/" hreflang="en-AU" /><link rel="alternate" href="https://touchingsmarts.com/about/ca/" hreflang="en-CA" /><link rel="alternate" href="https://touchingsmarts.com/about/dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://touchingsmarts.com/about/hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://touchingsmarts.com/about/ie/" hreflang="en-IE" /><link rel="alternate" href="https://touchingsmarts.com/about/il-en/" hreflang="en-IL" /><link rel="alternate" href="https://touchingsmarts.com/about/in-en/" hreflang="en-IN" /><link rel="alternate" href="https://touchingsmarts.com/about/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://touchingsmarts.com/about/no-en/" hreflang="en-NO" /><link rel="alternate" href="https://touchingsmarts.com/about/se-en/" hreflang="en-SE" /><link rel="alternate" href="https://touchingsmarts.com/about/sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://touchingsmarts.com/about/uk/" hreflang="en-GB" /><link rel="alternate" href="https://touchingsmarts.com/about/de/" hreflang="de" /><link rel="alternate" href="https://touchingsmarts.com/about/at/" hreflang="de-AT" /><link rel="alternate" href="https://touchingsmarts.com/about/ch/" hreflang="de-CH" /><link rel="alternate" href="https://touchingsmarts.com/about/fr/" hreflang="fr" /><link rel="alternate" href="https://touchingsmarts.com/about/ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://touchingsmarts.com/about/nl/" hreflang="nl" /><link rel="alternate" href="https://touchingsmarts.com/about/be/" hreflang="nl-BE" /><link rel="alternate" href="https://touchingsmarts.com/about/it/" hreflang="it" /><link rel="alternate" href="https://touchingsmarts.com/about/es/" hreflang="es" /><link rel="alternate" href="https://touchingsmarts.com/about/mx/" hreflang="es-MX" /><link rel="alternate" href="https://touchingsmarts.com/about/jp/" hreflang="ja" /><link rel="alternate" href="https://touchingsmarts.com/about/pl/" hreflang="pl" /><link rel="alternate" href="https://touchingsmarts.com/about/pt/" hreflang="pt" /><link rel="alternate" href="https://touchingsmarts.com/about/" hreflang="x-default" /><link rel="alternate" href="https://touchingsmarts.com/about/" hreflang="en-US" />
+<link rel="canonical" href="https://cignagency.com/about-us/" />
+<link rel="amphtml" href="https://amp-kode4d.xyz/amp/kode4d-cignagency-about/" />
+<link rel="alternate" href="https://cignagency.com/about-us/" hreflang="en" /><link rel="alternate" href="https://cignagency.com/about-us/fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://cignagency.com/about-us/au/" hreflang="en-AU" /><link rel="alternate" href="https://cignagency.com/about-us/ca/" hreflang="en-CA" /><link rel="alternate" href="https://cignagency.com/about-us/dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://cignagency.com/about-us/hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://cignagency.com/about-us/ie/" hreflang="en-IE" /><link rel="alternate" href="https://cignagency.com/about-us/il-en/" hreflang="en-IL" /><link rel="alternate" href="https://cignagency.com/about-us/in-en/" hreflang="en-IN" /><link rel="alternate" href="https://cignagency.com/about-us/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://cignagency.com/about-us/no-en/" hreflang="en-NO" /><link rel="alternate" href="https://cignagency.com/about-us/se-en/" hreflang="en-SE" /><link rel="alternate" href="https://cignagency.com/about-us/sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://cignagency.com/about-us/uk/" hreflang="en-GB" /><link rel="alternate" href="https://cignagency.com/about-us/de/" hreflang="de" /><link rel="alternate" href="https://cignagency.com/about-us/at/" hreflang="de-AT" /><link rel="alternate" href="https://cignagency.com/about-us/ch/" hreflang="de-CH" /><link rel="alternate" href="https://cignagency.com/about-us/fr/" hreflang="fr" /><link rel="alternate" href="https://cignagency.com/about-us/ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://cignagency.com/about-us/nl/" hreflang="nl" /><link rel="alternate" href="https://cignagency.com/about-us/be/" hreflang="nl-BE" /><link rel="alternate" href="https://cignagency.com/about-us/it/" hreflang="it" /><link rel="alternate" href="https://cignagency.com/about-us/es/" hreflang="es" /><link rel="alternate" href="https://cignagency.com/about-us/mx/" hreflang="es-MX" /><link rel="alternate" href="https://cignagency.com/about-us/jp/" hreflang="ja" /><link rel="alternate" href="https://cignagency.com/about-us/pl/" hreflang="pl" /><link rel="alternate" href="https://cignagency.com/about-us/pt/" hreflang="pt" /><link rel="alternate" href="https://cignagency.com/about-us/" hreflang="x-default" /><link rel="alternate" href="https://cignagency.com/about-us/" hreflang="en-US" />
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
 
@@ -525,7 +524,7 @@
     data-ge-hover-event-name="gnav_hover_cart_menu"
 >
     <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-        <a aria-label="Cart" href="https://touchingsmarts.com/about/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+        <a aria-label="Cart" href="https://cignagency.com/about-us/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
             <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
                 0
             </span>
@@ -727,11 +726,11 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://touchingsmarts.com/about/">KODE4D</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://cignagency.com/about-us/">KODE4D</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://touchingsmarts.com/about/">SLOT GACOR</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://cignagency.com/about-us/">SLOT GACOR</a>
                         </li>
                            <pre> | </pre> 
                          </li>   
@@ -780,7 +779,7 @@ if (clientloggerIsEnabled) {
 </span>
     </button>
     <div id="etsys_pick" role="tooltip">
-        KODE4D sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya. <p class="wt-mt-xs-3"><a href="https://touchingsmarts.com/about/" target="_blank">KODE4D</a></p>
+        KODE4D sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya. <p class="wt-mt-xs-3"><a href="https://cignagency.com/about-us/" target="_blank">KODE4D</a></p>
     </div>
 </div>
         </div>
@@ -1638,7 +1637,7 @@ if (clientloggerIsEnabled) {
 </div>
 
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-        <a class="wt-text-link wt-text-link-underline" href="https://touchingsmarts.com/about/signin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
+        <a class="wt-text-link wt-text-link-underline" href="https://cignagency.com/about-us/signin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
         <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></svg></span>Report this item to KODE4D
     </a>
     </div>
@@ -1937,8 +1936,8 @@ if (clientloggerIsEnabled) {
 </style>
 
 <div class="btn-box">
-    <a href="https://amp-kode4d.xyz/amp/kode4d-touchingsmarts/" target="_blank" class="btn-grad">LOGIN</a>
-    <a href="https://amp-kode4d.xyz/amp/kode4d-touchingsmarts/" target="_blank" class="btn-grad">DAFTAR</a>
+    <a href="https://amp-kode4d.xyz/amp/kode4d-cignagency-about/" target="_blank" class="btn-grad">LOGIN</a>
+    <a href="https://amp-kode4d.xyz/amp/kode4d-cignagency-about/" target="_blank" class="btn-grad">DAFTAR</a>
 </div>
 
   </div>
@@ -1953,7 +1952,7 @@ if (clientloggerIsEnabled) {
         
         
             <div class="wt-mt-xs-1 wt-mb-xs-1">
-                <p><a href="https://touchingsmarts.com/about/">KODE4D</a> sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya.</p><br>
+                <p><a href="https://cignagency.com/about-us/">KODE4D</a> sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya.</p><br>
 
             </div>
         <div class="wt-mb-xs-3">
@@ -1962,7 +1961,7 @@ if (clientloggerIsEnabled) {
         
     ">
         <span class="wt-text-title-small">
-    <a href="https://touchingsmarts.com/about/" class="wt-text-link-no-underline wt-sem-text-primary">
+    <a href="https://cignagency.com/about-us/" class="wt-text-link-no-underline wt-sem-text-primary">
         KODE4D
     </a>
 </span>
@@ -2124,7 +2123,7 @@ if (clientloggerIsEnabled) {
         </div>
         <div data-appears-component-name="add_to_cart_form">
 <div class="wt-validation wt-flex-xs-1" data-buy-box-region="add_to_cart_form">
-        <form action="https://touchingsmarts.com/about/" method="post" class="add-to-cart-form" data-buy-box-add-to-cart-form>
+        <form action="https://cignagency.com/about-us/" method="post" class="add-to-cart-form" data-buy-box-add-to-cart-form>
             <input type="hidden" name="listing_id" value="907486452" />
             <input type="hidden" name="ref" value="listing_page" />
             <input type="hidden" name="page_type" value="view_listing" />
@@ -2320,7 +2319,7 @@ if (clientloggerIsEnabled) {
 <li class="wt-block-grid__item wt-display-flex-xs wt-align-items-flex-start">
             <div><span class="wt-icon wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4.5 8v7H3v5h5v-1.25h2.5v-2H8V15H6.5V8H8V6.5h7V8h1.75v2.457l2 1.714V8H20V3h-5v1.5H8V3H3v5z"/><path d="m12.39 9.129 9.273 7.971-4.17.29 1.378 3-2.272 1.043-1.36-2.962-2.854 2.887z"/></svg></span></div>
         <div class="wt-ml-xs-1 how-its-made-label-product-details">
-                Designed by <a href=https://touchingsmarts.com/about/ target="_blank" class="wt-text-link-no-underline wt-text-title">KODE4D</a>
+                Designed by <a href=https://cignagency.com/about-us/ target="_blank" class="wt-text-link-no-underline wt-text-title">KODE4D</a>
         </div>
 </li>
 </div>
@@ -2447,7 +2446,7 @@ if (clientloggerIsEnabled) {
             </button>
             <div id="shipping-highlights-estimated-delivery-date-popover" role="tooltip">
                 <p class="wt-text-caption wt-mb-xs-1">
-                    Bergabung dan nikmatin keseruan bermain <a href='https://touchingsmarts.com/about/' target='_blank'>situs toto</a>  yang aman dan terpercaya hanya di KODE4D
+                    Bergabung dan nikmatin keseruan bermain <a href='https://cignagency.com/about-us/' target='_blank'>situs toto</a>  yang aman dan terpercaya hanya di KODE4D
                 </p>
                 <span class="wt-popover__arrow"></span>
             </div>
@@ -3012,13 +3011,13 @@ if (clientloggerIsEnabled) {
     <div>
         <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">KODE4D</p>
         <p class=" wt-sem-text-primary wt-text-caption">
-            Owner of <a href='https://touchingsmarts.com/about/' class='wt-text-link'>SLOT GACOR</a>
+            Owner of <a href='https://cignagency.com/about-us/' class='wt-text-link'>SLOT GACOR</a>
         </p>
         <div data-follow-shop-region>
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://touchingsmarts.com/about/"
+                href="https://cignagency.com/about-us/"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -3046,7 +3045,7 @@ if (clientloggerIsEnabled) {
 </div>
 <a
     rel="nofollow"
-    href="https://touchingsmarts.com/about/"
+    href="https://cignagency.com/about-us/"
     
     class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -3151,7 +3150,7 @@ if (clientloggerIsEnabled) {
                     <p class="wt-mb-xs-2 wt-mt-xs-2">
                         Need to get in touch with the seller? Try <a
     rel="nofollow"
-    href="https://touchingsmarts.com/about/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
+    href="https://cignagency.com/about-us/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -3943,7 +3942,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
             </div>
 
             <div class="wt-action-group__item-container">
-                    <a href="https://touchingsmarts.com/about/?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
+                    <a href="https://cignagency.com/about-us/?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
                         aria-current="true"
                         
                         
@@ -3952,7 +3951,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://touchingsmarts.com/about/?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://cignagency.com/about-us/?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="2"
                         
@@ -3961,7 +3960,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://touchingsmarts.com/about/?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://cignagency.com/about-us/?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="3"
                         
@@ -3979,7 +3978,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://touchingsmarts.com/about/?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://cignagency.com/about-us/?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="5"
                         
@@ -3991,7 +3990,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
 
             <div class="wt-action-group__item-container">
                 <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon "
-                    href="https://touchingsmarts.com/about/?ref=pagination&page=2"
+                    href="https://cignagency.com/about-us/?ref=pagination&page=2"
                     
                     data-page="2"
                     
@@ -4213,7 +4212,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
     
     <div class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
         <div class="wt-position-relative">
-            <a href="https://touchingsmarts.com/about/">
+            <a href="https://cignagency.com/about-us/">
                 <img
     data-clg-id="WtImage"
     class="wt-circle wt-display-block wt-image--cover wt-image"
@@ -4249,12 +4248,12 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
 
     <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
         <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-            <a class="wt-text-link-no-underline" href="https://touchingsmarts.com/about/"><p class="wt-text-heading">KODE4D</p></a>
+            <a class="wt-text-link-no-underline" href="https://cignagency.com/about-us/"><p class="wt-text-heading">KODE4D</p></a>
         </div>
     </div>
     
     <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-        <a class="wt-text-link-no-underline wt-text-body" href="https://touchingsmarts.com/about/">Owned by KODE4D</a>
+        <a class="wt-text-link-no-underline wt-text-body" href="https://cignagency.com/about-us/">Owned by KODE4D</a>
             <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
             <p class="wt-text-body">Indonesia</p>
     </div>
@@ -4284,7 +4283,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
     <div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
         <div class="wt-flex-xs-1 wt-flex-lg-0"><a
     rel="nofollow"
-    href="https://touchingsmarts.com/about/"
+    href="https://cignagency.com/about-us/"
     
     class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -4309,7 +4308,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://touchingsmarts.com/about/"
+                href="https://cignagency.com/about-us/"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -4408,7 +4407,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
     </div>
 
     <p id="product-safety-notice-toggle" class="wt-text-truncate--multi-line">
-    <span class="wt-text-caption"><strong><a href="https://touchingsmarts.com/about/" target="_blank">KODE4D</a></strong> sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya.</span>
+    <span class="wt-text-caption"><strong><a href="https://cignagency.com/about-us/" target="_blank">KODE4D</a></strong> sebuah situs slot online resmi paling gacor dengan permainan slot terlengkap di indonesia dengan minimal deposit slot 10.000 tergacor. Rasakan sensasi kemenangan di link situs Kode 4D dapatkan promosi & bonus events tahun baru 2026 dengan link terpercaya.</span>
 </p>
 </div>
 
@@ -4451,7 +4450,7 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
             <div class="wt-display-inline-block">
         <span class="inline-svg svg-payment-icon wt-p-xs-1 wt-mb-xs-1"><svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 1920.01 620.07999" xml:space="preserve" sodipodi:docname="d262c3fc767b0f2b042f1a30f2519b44.svgz" width="100%" height="100%" aria-labelledby="paymentsvisa-2-visa" role="img" focusable="false"><defs id="defs9"/><sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0"/>
 <style type="text/css" id="style2">
-	.visa-svg-path{fill:#1434CB;}
+  .visa-svg-path{fill:#1434CB;}
 </style>
 <path class="visa-svg-path" d="M 729,10.96 477.63,610.7 h -164 L 189.93,132.08 C 182.42,102.6 175.89,91.8 153.05,79.38 115.76,59.15 54.18,40.17 0,28.39 L 3.68,10.96 h 263.99 c 33.65,0 63.9,22.4 71.54,61.15 L 404.54,419.15 566,10.95 h 163 z m 642.58,403.93 c 0.66,-158.29 -218.88,-167.01 -217.37,-237.72 0.47,-21.52 20.96,-44.4 65.81,-50.24 22.23,-2.91 83.48,-5.13 152.95,26.84 L 1400.22,26.59 C 1362.89,13.04 1314.86,0 1255.1,0 1101.75,0 993.83,81.52 992.92,198.25 c -0.99,86.34 77.03,134.52 135.81,163.21 60.47,29.38 80.76,48.26 80.53,74.54 -0.43,40.23 -48.23,57.99 -92.9,58.69 -77.98,1.2 -123.23,-21.1 -159.3,-37.87 l -28.12,131.39 c 36.25,16.63 103.16,31.14 172.53,31.87 162.99,0 269.61,-80.51 270.11,-205.19 m 404.94,195.81 h 143.49 L 1794.76,10.96 h -132.44 c -29.78,0 -54.9,17.34 -66.02,44 L 1363.49,610.7 h 162.91 l 32.34,-89.58 h 199.05 z m -173.11,-212.5 81.66,-225.18 47,225.18 z M 950.67,10.96 822.38,610.7 H 667.24 L 795.58,10.96 Z" id="path4"/>
 <title id="paymentsvisa-2-visa">Visa</title></svg></span>
@@ -4528,9 +4527,9 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
 
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://touchingsmarts.com/about/">KODE4D</a>
+        <a href="https://cignagency.com/about-us/">KODE4D</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://touchingsmarts.com/about/">SLOT GACOR</a>
+        <a href="https://cignagency.com/about-us/">SLOT GACOR</a>
 </div></br>
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
 </div>
@@ -4585,15 +4584,15 @@ Nyaman banget bermain di KODE4D. Sudah memiliki keamanan yang terjamin, promo da
         }
 </style>
 <div class="KODE4D-fixed-footer">
-    <a href="https://amp-kode4d.xyz/amp/kode4d-touchingsmarts/" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-kode4d.xyz/amp/kode4d-cignagency-about/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/xTGsR27w/ICON-LOGIN.png" alt="Promo">
         LOGIN
     </a>
-    <a href="https://amp-kode4d.xyz/amp/kode4d-touchingsmarts/" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-kode4d.xyz/amp/kode4d-cignagency-about/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/xd8tnbCY/ICON-DAFTAR.png" alt="Login">
         DAFTAR
     </a>
-    <a href="https://amp-kode4d.xyz/amp/kode4d-touchingsmarts/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://amp-kode4d.xyz/amp/kode4d-cignagency-about/" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/D0kgrjPN/ICON-LC.png" alt="Daftar">
         LIVE CHAT
     </a>
