@@ -11,8 +11,8 @@
 <meta name="description" content="Testi138 merupakan tempat wisata di sibolangit degan panorama yang indah membuat kita betah disana , tempat ini menjadi tempat paling indah !" />
 <meta name="robots" content="index,follow" />
 <link href="https://i.imgur.com/lhptZQp.png" rel="shortcut icon" type="image/x-icon" />
-<link rel="canonical" href="https://alexismaryonphotography.com/" />
-<meta property="og:url" content="https://alexismaryonphotography.com/" />
+<link rel="canonical" href="https://testi138bro.com/" />
+<meta property="og:url" content="https://testi138bro.com/" />
 <meta property="og:site_name" content="TESTI138" />
 <meta property="og:image:alt" content="TESTI138" />
 <meta property="og:image" content="https://res.cloudinary.com/dupsvaff7/image/upload/v1765176273/testi138-src-best_alw5tm.jpg" />
