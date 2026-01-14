@@ -2,9 +2,6 @@
 
 
 
-
-
-
 <!DOCTYPE html>
 <html amp lang='id'>
   <head>
@@ -250,7 +247,7 @@
         </center>
       </header>
       <div class="welcome">
-        <h3>TESTI138 SITUS TERPOULER 2026</h3>
+        <h3>TESTI138 SITUS TERPOPULER 2026</h3>
       </div>
       <amp-img src="https://ik.imagekit.io/rlsjc0lk7/testid.png" width="600" height="600" layout="intrinsic" class="banner"></amp-img>
       <a href="https://asikcuy.me/testi138" target="_blank" rel="noreferrer noopener" role="button" class="btn-login glow-on-hover">LOGIN TESTI138</a>
