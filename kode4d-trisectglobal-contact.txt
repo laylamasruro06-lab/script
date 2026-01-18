@@ -486,11 +486,11 @@
     <meta property="og:image"
         content="https://new-seo.xyz/images/gacor-bosku9.jpg" />
     <meta property="og:description" content="i3-7100T,4G,INTEGRATED,500GB,WIN10PRO&amp;OFFEDU,No&#x20;Monitor" />
-    <meta property="og:url" content="https://hotelveniz.com/" />
+    <meta property="og:url" content="https://www.trisectglobal.com/contact/" />
     <meta property="product:price:amount" content="5000" />
     <meta property="product:price:currency" content="IDR" /> <!-- twitter product cards-->
     <meta name="twitter:card" content="product" />
-    <meta name="twitter:domain" content="https://hotelveniz.com/" />
+    <meta name="twitter:domain" content="https://www.trisectglobal.com/contact/" />
     <meta name="twitter:site" content="" />
     <meta name="twitter:creator" content="" />
     <meta name="twitter:title" content="KODE4D >> Slot Gacor 4D Resmi Deposit Slot Qris 5000 Anti Ribet Gampang Cuan" />
@@ -507,7 +507,7 @@
     <meta property="og:image"
         content="https://new-seo.xyz/images/gacor-bosku9.jpg" />
     <meta property="og:description" content="KODE4D sebuah situs slot gacor 4D berbasis online yang telah berpengalman memberikan sebuah pengalaman bermain slot online resmi yang telah di percaya berthaun tahun. Di tahun 2026 Kode 4D menyediakan deposit via slot qris dengan minimal 5000 rupiah agar para player dengan mudah untuk melakukan transaksi dan mudah untuk deposit dengan nominal minim. Dapatkan sensasi berbahagia dengan pengalaman tak terlukapan di situs slot gacor kode4D Anti ribet gampang cuan." />
-    <meta property="og:url" content="https://hotelveniz.com/" />
+    <meta property="og:url" content="https://www.trisectglobal.com/contact/" />
     <meta property="product:price:amount" content="5000.00" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
@@ -677,24 +677,24 @@
                             </style>
                         </div>
                         <div class="vendor-portal-dekstop"><a class="vendor-portal-button button"
-                                href="https://hotelveniz.com/"> Seller Portal </a></div>
+                                href="https://www.trisectglobal.com/contact/"> Seller Portal </a></div>
                         <style></style> <a class="action skip contentarea" href="#contentarea"><span> Skip to
                                 Content</span></a>
                         <ul class="header links">
                             <div class="login-section hide-header">
                                 <p style="margin: 0;height: 0px;">&nbsp;</p>
                                 <p class="welcome-text">Hai! </br>Selamat Datang di </br>DATASCRIPMALL.ID</p>
-                                <p><a class="login-button button" href="https://hotelveniz.com/"> MASUK </a> <a
-                                        class="register-button button" href="https://hotelveniz.com/"> DAFTAR </a><a
-                                        class="vendor-portal-mobile button" href="https://hotelveniz.com/"> SELLER PORTAL
+                                <p><a class="login-button button" href="https://www.trisectglobal.com/contact/"> MASUK </a> <a
+                                        class="register-button button" href="https://www.trisectglobal.com/contact/"> DAFTAR </a><a
+                                        class="vendor-portal-mobile button" href="https://www.trisectglobal.com/contact/"> SELLER PORTAL
                                     </a></p>
                                 <p class="info-text">Silakan Masuk/Daftar untuk kenyamanan proses<br> belanja Anda.</p>
                                 <style></style>
                             </div>
-                            <li class="link authorization-link" data-label="atau"><a href="https://hotelveniz.com/">Masuk</a>
+                            <li class="link authorization-link" data-label="atau"><a href="https://www.trisectglobal.com/contact/">Masuk</a>
                             </li>
                             <li data-bind="scope: 'customer'"><!-- ko ifnot: customer().fullname --><a
-                                    href="https://hotelveniz.com/">Buat Akun</a> <!-- /ko --></li>
+                                    href="https://www.trisectglobal.com/contact/">Buat Akun</a> <!-- /ko --></li>
                         </ul>
                         <li class="item link compare" data-bind="scope: 'compareProducts'"
                             data-role="compare-products-link"><a class="action compare no-display"
@@ -706,7 +706,7 @@
                 </div>
                 <div class="header content"> <span data-action="toggle-nav" class="action nav-toggle"><span>Toggle
                             Nav</span></span>
-                    <div class="desktop-logo desktop-logo-all"><a class="logo " href="https://hotelveniz.com/" title=""
+                    <div class="desktop-logo desktop-logo-all"><a class="logo " href="https://www.trisectglobal.com/contact/" title=""
                             aria-label="store logo">
                             <picture>
                                 <source type="image/webp" srcset="https://jet.kode4dmelon.com/images/logoweb.png">
@@ -801,15 +801,15 @@
                                     </li>
                                     <li id="vesitem-102317644608151165985952"
                                         class=" nav-item level0 submenu-alignleft subhover  dropdown level-top "><a
-                                            href="https://hotelveniz.com/" title="SLOT GACOR" target="_self"
+                                            href="https://www.trisectglobal.com/contact/" title="SLOT GACOR" target="_self"
                                             class=" nav-anchor"><span>SLOT GACOR</span></a></li>
                                     <li id="vesitem-113117644608151102625150"
                                         class=" nav-item level0 submenu-alignleft subhover  dropdown level-top "><a
-                                            href="https://hotelveniz.com/" title="SLOT GACOR 4D" target="_self"
+                                            href="https://www.trisectglobal.com/contact/" title="SLOT GACOR 4D" target="_self"
                                             class=" nav-anchor"><span>SLOT GACOR 4D</span></a></li>
                                     <li id="vesitem-11561764460815197740870"
                                         class=" nav-item level0 nav-1 submenu-alignleft subhover  dropdown level-top  category-item">
-                                        <a href="https://hotelveniz.com/" title="KODE4D" target="_self"
+                                        <a href="https://www.trisectglobal.com/contact/" title="KODE4D" target="_self"
                                             style="color: #ff0000 !important" class=" nav-anchor"><span>KODE4D</span></a></li>
                                 </ul>
                             </nav>
@@ -862,7 +862,7 @@
                             </div> <!-- Vendorwebsite Label-->
                             <div class="custom-brand vendor-website"
                                 style="margin: 0;padding: 15px 0;border-bottom: 1px solid #dfdfdf;display: inline-block;width: 100%;">
-                                <a href='https://hotelveniz.com/'
+                                <a href='https://www.trisectglobal.com/contact/'
                                     style='color: #005aab;'>SLOT GACOR 4D</a><span>, Semarang, Jawa Tengah</span></div>
                             <!-- End Vendorwebsite Label--><!-- START -- TAX INVOICE FEATURE -->
                             <div class="custom-tax-invoice" style="padding-top: 10px">Dapat Request Faktur Pajak</div>
@@ -1004,22 +1004,22 @@
                                         <div class="value">
                                             <h1>KODE4D >> Slot Gacor 4D Resmi Deposit Slot Qris 5000 Anti Ribet Gampang Cuan</h1>
                                             <p>KODE4D sebuah situs slot gacor 4D berbasis online yang telah berpengalman memberikan sebuah pengalaman bermain slot online resmi yang telah di percaya berthaun tahun. Di tahun 2026 Kode 4D menyediakan deposit via slot qris dengan minimal 5000 rupiah agar para player dengan mudah untuk melakukan transaksi dan mudah untuk deposit dengan nominal minim. Dapatkan sensasi berbahagia dengan pengalaman tak terlukapan di situs slot gacor kode4D Anti ribet gampang cuan.</p>
-                                            <p>Sebagai <a href= "https://hotelveniz.com/">Bandar SLOT GACOR 4D</a> resmi, kami menempatkan keamanan data dan dana member sebagai prioritas utama, memberikan pengalaman bermain yang nyaman dan bebas dari rasa khawatir adalah visi utama yang sudah kami pegang bertahun-tahun.</p>
+                                            <p>Sebagai <a href= "https://www.trisectglobal.com/contact/">Bandar SLOT GACOR 4D</a> resmi, kami menempatkan keamanan data dan dana member sebagai prioritas utama, memberikan pengalaman bermain yang nyaman dan bebas dari rasa khawatir adalah visi utama yang sudah kami pegang bertahun-tahun.</p>
                                             <h2>Lisensi Resmi yang Menjamin Transparansi Permainan</h2>
                                             <p>Setiap permainan di KODE4D dilindungi oleh lisensi resmi internasional. Komitmen kami terhadap keadilan dan transparansi adalah mutlak dan tidak dapat diganggu gugat.</p>
                                             <p>Lisensi ini menjamin bahwa semua sistem togel berjalan dengan algoritma yang adil, tanpa campur tangan pihak manapun.</p>
                                             <p>Sehingga setiap kemenangan yang Anda dapatkan adalah murni berdasarkan hasil result yang sah dan dapat dipertanggungjawabkan secara hukum.</p>
-                                            <p>Anda bisa memainkan <a href= "https://hotelveniz.com/">Toto 4D</a> dengan pikiran tenang, karena legalitas kami adalah fondasi utama kepercayaan yang selalu kami jaga.</p>
+                                            <p>Anda bisa memainkan <a href= "https://www.trisectglobal.com/contact/">Toto 4D</a> dengan pikiran tenang, karena legalitas kami adalah fondasi utama kepercayaan yang selalu kami jaga.</p>
                                             <h2>Deposit &amp; Withdraw Secepat Kilat</h2>
                                             <p>Kami memahami bahwa waktu adalah uang. Sistem perbankan KODE4D telah diintegrasikan dengan teknologi terdepan untuk memproses seluruh transaksi deposit dan penarikan dana dalam hitungan detik.</p>
                                             <p>Tidak ada lagi penantian lama atau proses berbelit. Dengan jaringan yang super secpat dan aman, kami memastikan setiap transaksi Anda berjalan lancar dan tepat waktu.</p>
-                                            <p>Sehingga anda hanya tinggal fokus bermain <a href= "https://hotelveniz.com/">Togel Online</a> saja.</p>
+                                            <p>Sehingga anda hanya tinggal fokus bermain <a href= "https://www.trisectglobal.com/contact/">Togel Online</a> saja.</p>
                                             <h2>Customer Service Professional 24 Jam Nonstop</h2>
-                                            <p>Pelayanan terbaik adalah kunci kepuasan member. Tim CS <a href= "https://hotelveniz.com/">Situs Togel</a> KODE4D yang profesional, ramah, dan terlatih siap mendampingi Anda 24 jam sehari, 7 hari seminggu, tanpa henti.</p>
+                                            <p>Pelayanan terbaik adalah kunci kepuasan member. Tim CS <a href= "https://www.trisectglobal.com/contact/">Situs Togel</a> KODE4D yang profesional, ramah, dan terlatih siap mendampingi Anda 24 jam sehari, 7 hari seminggu, tanpa henti.</p>
                                             <p>Baik itu bantuan teknis, informasi transaksi, atau panduan bermain, respons yang cepat dan solusi yang tepat akan selalu Anda dapatkan.</p>
                                             <p>"Full Servis" kapan pun Anda butuhkan, karena kami hadir untuk memastikan pengalaman bermain Anda terasa sempurna.</p>
                                             <h2>Pasaran Togel Paling Lengkap Sejagad Raya</h2>
-                                            <p>Dari <a href= "https://hotelveniz.com/">Toto Macau</a>, Singapore, Hongkong, Sydney, hingga pasaran lokal dan internasional lainnya, semuanya tersedia di satu platform.</p>
+                                            <p>Dari <a href= "https://www.trisectglobal.com/contact/">Toto Macau</a>, Singapore, Hongkong, Sydney, hingga pasaran lokal dan internasional lainnya, semuanya tersedia di satu platform.</p>
                                             <p>KODE4D menghadirkan koleksi pasaran togel terlengkap sejagad raya, dilengkapi dengan jadwal resmi, data result terkini, dan live draw yang valid.</p>
                                         </div>
                                     </div>
@@ -1150,7 +1150,7 @@
                                                                 </li>
                                                                 <li><a href="syarat-dan-ketentuan/">Syarat &amp;
                                                                         Ketentuan</a></li>
-                                                                <li><a href="https://hotelveniz.com/" target="_blank"
+                                                                <li><a href="https://www.trisectglobal.com/contact/" target="_blank"
                                                                         rel="noopener">SLOT GACOR 4D</a></li>
                                                             </ul>
                                                         </div><!-- FOOTER COLUMN #2 END -->
@@ -1191,13 +1191,13 @@
                                                                     </form>
                                                                 </div>
                                                                 <!-- FOOTER NEWSLETTER BLOCK END --><!-- FOOTER SOCIAL-ICONS BEGIN --><a
-                                                                    class="social-icons" href="https://hotelveniz.com/"><em
+                                                                    class="social-icons" href="https://www.trisectglobal.com/contact/"><em
                                                                         class="icon-instagram-datascrip"> </em> </a> <a
-                                                                    class="social-icons" href="https://hotelveniz.com/"><em
+                                                                    class="social-icons" href="https://www.trisectglobal.com/contact/"><em
                                                                         class="icon-facebook-datascrip"> </em> </a> <a
-                                                                    class="social-icons" href="https://hotelveniz.com/"><em
+                                                                    class="social-icons" href="https://www.trisectglobal.com/contact/"><em
                                                                         class="icon-twitter-datascrip"> </em> </a> <a
-                                                                    class="social-icons" href="https://hotelveniz.com/"><em
+                                                                    class="social-icons" href="https://www.trisectglobal.com/contact/"><em
                                                                         class="icon-youtube-datascrip"> </em> </a>
                                                                 <!-- FOOTER SOCIAL-ICONS END -->
                                                             </div>
@@ -1231,7 +1231,7 @@
                                                         </div><!-- Logo COLUMN #1 END --><!-- Logo COLUMN #2 BEGIN -->
                                                         <div class="col-md-3 col-sm-6 col-xs-12 padding-logo-mobile">
                                                             <h4 class="no-padding-mob">KEAMANAN BELANJA</h4><a
-                                                                href="https://hotelveniz.com/" rel="noopener">
+                                                                href="https://www.trisectglobal.com/contact/" rel="noopener">
                                                                 <picture>
                                                                     <source type="image/webp"
                                                                         srcset="https://datascripmall.id/media/webp_image/wysiwyg/col3_1.webp">
