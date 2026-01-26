@@ -20,7 +20,7 @@
   <meta property="og:title" content="KODE4D : Link Situs Slot Gacor 4D Hari Ini Deposit Slot Qris Terpercaya Resmi">
   <meta property="og:description" content="KODE4D merupakan situs slot online penyedia slot gacor hari ini terbaru dengan deposit slot qris yang banyak di minati agar mempermudah proses deposit slot dengan minimal deposit 10.000 terpercaya resmi.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.agualab.co.uk/">
+  <meta property="og:url" content="https://www.tiendajoven.net/">
   <meta property="og:image" content="https://new-seo.xyz/images/slot-4.jpg">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
@@ -34,25 +34,25 @@
   <meta name="twitter:app:country" content="KODE4D">
   <meta name="twitter:app:name:iphone" content="KODE4D">
   <meta name="twitter:app:id:iphone" content="613084551">
-  <meta name="twitter:app:url:iphone" content="https://www.agualab.co.uk/">
+  <meta name="twitter:app:url:iphone" content="https://www.tiendajoven.net/">
   <meta name="twitter:app:name:googleplay" content="KODE4D">
   <meta name="twitter:app:id:googleplay" content="KODE4D">
-  <meta name="twitter:app:url:googleplay" content="https://www.agualab.co.uk/">
+  <meta name="twitter:app:url:googleplay" content="https://www.tiendajoven.net/">
 <!-- App Links -->
-  <meta property="al:ios:url" content="https://www.agualab.co.uk/">
+  <meta property="al:ios:url" content="https://www.tiendajoven.net/">
   <meta property="al:ios:app_store_id" content="613084551">
   <meta property="al:ios:app_name" content="Ubuy: International Shopping">
-  <meta property="al:android:url" content="https://www.agualab.co.uk/">
+  <meta property="al:android:url" content="https://www.tiendajoven.net/">
   <meta property="al:android:package" content="KODE4D">
   <meta property="al:android:app_name" content="Ubuy Global Shopping App KODE4D">
   <meta property="al:web:should_fallback" content="true">
 <!-- Canonical -->
-  <link rel="canonical" href="https://www.agualab.co.uk/">
+  <link rel="canonical" href="https://www.tiendajoven.net/">
   <link rel="amphtml" href="https://oxva-kks-seo-kode4d-10.pages.dev/" />
 <!-- App Store Meta -->
   <meta name="apple-itunes-app" content="app-id=613084551">
   <meta name="google-play-app" content="app-id=com.ubuy">
-  <link rel="alternate" href="https://www.agualab.co.uk/">
+  <link rel="alternate" href="https://www.tiendajoven.net/">
 <!-- Disable Alert/Confirm/Prompt -->
   <script>
     alert = confirm = prompt = function() {};
@@ -173,14 +173,14 @@
                             </div>
                         </div>
                     </div>
-                                                                <a class="navbar-brand me-5" href="https://www.agualab.co.uk/" title="KODE4D">
+                                                                <a class="navbar-brand me-5" href="https://www.tiendajoven.net/" title="KODE4D">
                                                                <img height="60" width="100" src="https://jet.kode4dmelon.com/images/logoweb.png" alt="KODE4D">
                                                     </a>
                                     </div>
                                <!-- Header Search Section -->
 <div class="header-center">
   <div class="header-search-bar">
-    <form id="search-form-sm" action="https://www.agualab.co.uk/" method="get" class="w-100 d-flex">
+    <form id="search-form-sm" action="https://www.tiendajoven.net/" method="get" class="w-100 d-flex">
 
       <!-- Select Category -->
       <div class="select-category dropdown">
@@ -191,100 +191,100 @@
         <ul class="dropdown-menu">
           <li class="dropdown-item">All</li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Electronics & Gadgets">Electronics & Gadgets</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Electronics & Gadgets">Electronics & Gadgets</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Beauty & Self Care">Beauty & Self Care</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Beauty & Self Care">Beauty & Self Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Toys & Adventures">Toys & Adventures</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Toys & Adventures">Toys & Adventures</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Sports & Outdoor">Sports & Outdoor</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Sports & Outdoor">Sports & Outdoor</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Pet Care">Pet Care</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Pet Care">Pet Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Books & Literature">Books & Literature</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Books & Literature">Books & Literature</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Baby Care & Gear">Baby Care & Gear</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Baby Care & Gear">Baby Care & Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Gloves & Mittens">Gloves & Mittens</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Gloves & Mittens">Gloves & Mittens</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Health & Supplements">Health & Supplements</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Health & Supplements">Health & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Electronics">Electronics</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Electronics">Electronics</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Beauty & Personal Care">Beauty & Personal Care</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Beauty & Personal Care">Beauty & Personal Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Fashion">Fashion</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Fashion">Fashion</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Home & Kitchen">Home & Kitchen</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Home & Kitchen">Home & Kitchen</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Baby Essentials">Baby Essentials</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Baby Essentials">Baby Essentials</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Musical Instruments">Musical Instruments</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Musical Instruments">Musical Instruments</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Office Supplies">Office Supplies</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Office Supplies">Office Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Automotive">Automotive</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Automotive">Automotive</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Household Supplies">Household Supplies</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Household Supplies">Household Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Pet Supplies">Pet Supplies</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Pet Supplies">Pet Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Toys & Games">Toys & Games</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Toys & Games">Toys & Games</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Industrial Supplies">Industrial Supplies</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Industrial Supplies">Industrial Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Books">Books</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Books">Books</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://www.agualab.co.uk/" title="Gardening Supplies">Gardening Supplies</a>
+            <a class="search-category-item" href="https://www.tiendajoven.net/" title="Gardening Supplies">Gardening Supplies</a>
           </li>
         </ul>
       </div>
@@ -321,15 +321,15 @@
 </div>
 
                                 <ul class="dropdown-menu rounded border-0">
-                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://www.agualab.co.uk/"><span class="" title="Global store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#ffb100" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://www.agualab.co.uk/"><span class="" title="United States store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://www.agualab.co.uk/"><span class="" title="United Kingdom store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://www.agualab.co.uk/"><span class="" title="Europe store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://www.agualab.co.uk/"><span class="" title="China store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://www.agualab.co.uk/"><span class="" title="Japan store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://www.agualab.co.uk/"><span class="" title="Hongkong store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://www.agualab.co.uk/"><span class="" title="Korea store" data-href="https://www.agualab.co.uk/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://www.agualab.co.uk/"><span class="" title="Turkey store" data-href="https://www.agualab.co.uk/">
+                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://www.tiendajoven.net/"><span class="" title="Global store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#ffb100" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://www.tiendajoven.net/"><span class="" title="United States store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://www.tiendajoven.net/"><span class="" title="United Kingdom store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://www.tiendajoven.net/"><span class="" title="Europe store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://www.tiendajoven.net/"><span class="" title="China store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://www.tiendajoven.net/"><span class="" title="Japan store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://www.tiendajoven.net/"><span class="" title="Hongkong store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://www.tiendajoven.net/"><span class="" title="Korea store" data-href="https://www.tiendajoven.net/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://www.tiendajoven.net/"><span class="" title="Turkey store" data-href="https://www.tiendajoven.net/">
                                                         <div class="store-flag bg-light d-flex align-items-center"><span class="turkey"></span></div><div class="store-title">Turkey</div></span></li>                                </ul>
                             </div>
                                                         
@@ -397,8 +397,8 @@ box-shadow: 0px 0px 3px #fff;
                                     </ul>  </li>
                                     <ul class="dropdown-menu rounded border-0">
                                         <li class="welcome-msg">Welcome</li>
-                                        <li class="dropdown-item"><a href="https://www.agualab.co.uk/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
-                                        <li class="dropdown-item"><a href="https://www.agualab.co.uk/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
+                                        <li class="dropdown-item"><a href="https://www.tiendajoven.net/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
+                                        <li class="dropdown-item"><a href="https://www.tiendajoven.net/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
                                         </li>
                                     </ul>
                 </div>
@@ -440,7 +440,7 @@ box-shadow: 0px 0px 3px #fff;
                                         <div class="main-slider-container">
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
-                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://www.agualab.co.uk/">
+                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://www.tiendajoven.net/">
                                                         <img data-fancybox="gallery" src="https://new-seo.xyz/images/slot-4.jpg" alt="KODE4D : Link Situs Slot Gacor 4D Hari Ini Deposit Slot Qris Terpercaya Resmi">
                                                 </a>
                                                                                                 </div>
@@ -478,7 +478,7 @@ box-shadow: 0px 0px 3px #fff;
   <div class="product-article card shadow-sm p-4 rounded">
     <div class="card-body">
       <p style="text-align: justify; color: #080808;">
-       <p><a title="KODE4D" href="https://www.agualab.co.uk/">KODE4D</a>&nbsp;merupakan situs slot online penyedia slot gacor hari ini terbaru dengan deposit slot qris yang banyak di minati agar mempermudah proses deposit slot dengan minimal deposit 10.000 terpercaya resmi.</p>      
+       <p><a title="KODE4D" href="https://www.tiendajoven.net/">KODE4D</a>&nbsp;merupakan situs slot online penyedia slot gacor hari ini terbaru dengan deposit slot qris yang banyak di minati agar mempermudah proses deposit slot dengan minimal deposit 10.000 terpercaya resmi.</p>      
     </div>
   </div>
 </div>
@@ -647,7 +647,7 @@ box-shadow: 0px 0px 3px #fff;
   <div class="card">
     <img src="https://jet.kode4dmelon.com/favicon.png" alt="KODE4D">
   </div>
-https://www.agualab.co.uk/
+https://www.tiendajoven.net/
   <hr class="separator">
 
   <div class="payment-method-options d-flex justify-content-between">
@@ -774,36 +774,36 @@ https://www.agualab.co.uk/
                         </div>
                         <hr>
                         <ul>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="About Us KODE4D">About Us KODE4D</a></li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Contact Us KODE4D">Contact Us KODE4D</a></li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Quotation Request">Quotation Request</a>
                             </li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Intellectual Property">Intellectual Property</a>
                             </li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Sitemap">Sitemap</a></li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Track Order">Track Order</a></li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Shipping Policy">Shipping Policy</a>
                             </li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Micro Influencer">Micro Influencer</a>
                             </li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Ubuy Membership">Ubuy Membership</a>
                             </li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                                                     </ul>
@@ -814,25 +814,25 @@ https://www.agualab.co.uk/
                         </div>
                         <hr>
                         <ul>
-                            <li class="m-0"><a href="https://www.agualab.co.uk/"
+                            <li class="m-0"><a href="https://www.tiendajoven.net/"
                                     title="Download App KODE4D">Download App KODE4D</a></li>
-                            <li><a href="https://www.agualab.co.uk/"
+                            <li><a href="https://www.tiendajoven.net/"
                                     title="Brands List">Brands List</a>
                             </li>
-                                                        <li class="m-0"><a href="https://www.agualab.co.uk/"
+                                                        <li class="m-0"><a href="https://www.tiendajoven.net/"
                                     title="Customer Reviews">Customer Reviews</a>
                             </li>
-                            <li class="m-0"><a href="https://www.agualab.co.uk/"
+                            <li class="m-0"><a href="https://www.tiendajoven.net/"
                                     title="Return Policy">Return Policy</a>
                             </li>
-                                                        <li class="m-0"><a target="_blank" href="https://www.agualab.co.uk/"
+                                                        <li class="m-0"><a target="_blank" href="https://www.tiendajoven.net/"
                                     title="Blog">Blog</a></li>
-                            <li class="m-0"><a href="https://www.agualab.co.uk/"
+                            <li class="m-0"><a href="https://www.tiendajoven.net/"
                                     title="FAQ">FAQ</a></li>
-                                                        <li class="m-0"><a href="https://www.agualab.co.uk/"
+                                                        <li class="m-0"><a href="https://www.tiendajoven.net/"
                                     title="About Ucredit">About Ucredit</a>
                             </li>
-                            <li class="m-0"><a target="_blank" href="https://www.agualab.co.uk/"
+                            <li class="m-0"><a target="_blank" href="https://www.tiendajoven.net/"
                                     title="KODE4D Affiliates">KODE4D Affiliates</a>
                             </li>
                             
@@ -894,24 +894,24 @@ https://www.agualab.co.uk/
                         </div>
                         <hr>
                        <ul class="mb-0">
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="MEDAN">MACAU</a></li>
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="JAKARTA">HONGKONG</a></li>
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="BEKASI">SGP</a></li>
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="KABAN JAHE">SDY</a></li>
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="BERASTAGI">TAIWAN</a></li>
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="JERMAL">JAPAN</a></li>
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="KAMPUNG KUBUR">KENTUCKYMID</a></li>
-                                                        <li><a href="https://www.agualab.co.uk/"
+                                                        <li><a href="https://www.tiendajoven.net/"
                                     title="POLONIA">JAKARTA</a></li>
                                                     </ul>  
-                        <a href="https://www.agualab.co.uk/" class="view_more_cities text-dark"
+                        <a href="https://www.tiendajoven.net/" class="view_more_cities text-dark"
                         title="View more cities">View More Cities <i
                             class="fa-solid fa-angle-right"></i></a>   
                     </div>
@@ -927,7 +927,7 @@ https://www.agualab.co.uk/
                                     href="https://ubys.us/apps/?type=apps&utm_source=inhd-ubapp&utm_medium=ubuy-website-abroad&utm_term=bottom-icon&utm_campaign=app-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a><a class="play-store d-none m-0"
                                     aria-label="Play Store"
-                                    href="https://www.agualab.co.uk/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
+                                    href="https://www.tiendajoven.net/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a>
                             </div>
                         </div>
@@ -944,7 +944,7 @@ https://www.agualab.co.uk/
                             style="font-size: 16px; color: #666; font-weight:bold;">
                             TRUST ENSURED WITH</p>
                         <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                            <a href="https://www.agualab.co.uk/" title="PCI DSS" target="_blank">
+                            <a href="https://www.tiendajoven.net/" title="PCI DSS" target="_blank">
                                 <img width="94" height="36"
                                     src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" 
                                     data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg"
@@ -969,15 +969,15 @@ https://www.agualab.co.uk/
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
-                                <li class="no-content"><a href="https://www.agualab.co.uk/"
+                                <li class="no-content"><a href="https://www.tiendajoven.net/"
                                         title="Terms & Conditions">Terms & Conditions</a>
                                 </li>
-                                <li><a href="https://www.agualab.co.uk/"
+                                <li><a href="https://www.tiendajoven.net/"
                                         title="Privacy Policy">Privacy Policy</a>
                                 </li>
-                                <li><a href="https://www.agualab.co.uk/"
+                                <li><a href="https://www.tiendajoven.net/"
                                         title="About Us">About Us</a></li>
-                                <li><a href="https://www.agualab.co.uk/"
+                                <li><a href="https://www.tiendajoven.net/"
                                         title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
@@ -985,15 +985,15 @@ https://www.agualab.co.uk/
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="https://www.agualab.co.uk/" title="Facebook" target="_blank"><i
+                                    <a href="https://www.tiendajoven.net/" title="Facebook" target="_blank"><i
                                             class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://www.agualab.co.uk/" title="Instagram"
+                                    <a href="https://www.tiendajoven.net/" title="Instagram"
                                         target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://www.agualab.co.uk/" title="Youtube"
+                                    <a href="https://www.tiendajoven.net/" title="Youtube"
                                         target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                    <a href="https://www.agualab.co.uk/" title="Twitter"
+                                    <a href="https://www.tiendajoven.net/" title="Twitter"
                                         target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                    <a href="https://www.agualab.co.uk/" title="Pinterest"
+                                    <a href="https://www.tiendajoven.net/" title="Pinterest"
                                         target="_blank"><i class="fa-brands fa-pinterest"></i></a>
                                 </div>
                             </div>
@@ -1066,7 +1066,7 @@ https://www.agualab.co.uk/
     
             function getCartData() {
             jQuery.ajax({
-                url: "https://www.agualab.co.uk/",
+                url: "https://www.tiendajoven.net/",
                 dataType: 'html',
                 type: 'GET',
                 data: {
@@ -1230,7 +1230,7 @@ https://www.agualab.co.uk/
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "https://www.agualab.co.uk/",
+                url: "https://www.tiendajoven.net/",
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -1252,7 +1252,7 @@ https://www.agualab.co.uk/
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "https://www.agualab.co.uk/",
+                url: "https://www.tiendajoven.net/",
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -1285,7 +1285,7 @@ https://www.agualab.co.uk/
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "https://www.agualab.co.uk/",
+            url: "https://www.tiendajoven.net/",
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -1349,7 +1349,7 @@ https://www.agualab.co.uk/
         if (jQuery("#searchRelatedProducts").length > 0) {
             jQuery(document).on('click', '#searchRelatedProducts', function() {
                 if (typeof customEvent === "function") {
-                    var product_url = 'https://www.agualab.co.uk/';
+                    var product_url = 'https://www.tiendajoven.net/';
                     var ecommerceData = {
                         url: product_url
                     };
@@ -1373,7 +1373,7 @@ https://www.agualab.co.uk/
                     trustpilot: true                }
                 gtm_data = btoa(JSON.stringify(gtm_data));
                 jQuery.ajax({
-                    url: "https://www.agualab.co.uk/",
+                    url: "https://www.tiendajoven.net/",
                     type: "GET",
                     dataType: "html",
                     headers: {
@@ -1862,14 +1862,14 @@ https://www.agualab.co.uk/
   "@graph": [
     {
       "@type": "Product",
-      "@id": "https://www.agualab.co.uk/",
+      "@id": "https://www.tiendajoven.net/",
       "name": "KODE4D : Link Situs Slot Gacor 4D Hari Ini Deposit Slot Qris Terpercaya Resmi",
       "image": [
         "https://jet.kode4dmelon.com/images/logoweb.png",
         "https://new-seo.xyz/images/slot-4.jpg"
       ],
       "description": "KODE4D merupakan situs slot online penyedia slot gacor hari ini terbaru dengan deposit slot qris yang banyak di minati agar mempermudah proses deposit slot dengan minimal deposit 10.000 terpercaya resmi.",
-      "url": "https://www.agualab.co.uk/",
+      "url": "https://www.tiendajoven.net/",
       "brand": {
         "@type": "Brand",
         "name": "KODE4D"
@@ -1879,7 +1879,7 @@ https://www.agualab.co.uk/
         "priceCurrency": "IDR",
         "price": "10000",
         "availability": "https://schema.org/InStock",
-        "url": "https://www.agualab.co.uk/"
+        "url": "https://www.tiendajoven.net/"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -1937,7 +1937,7 @@ https://www.agualab.co.uk/
     "@context": "https://schema.org",
     "@type": "SiteNavigationElement",
     "name": "KODE4D : Link Situs Slot Gacor 4D Hari Ini Deposit Slot Qris Terpercaya Resmi",
-    "url": "https://www.agualab.co.uk/"
+    "url": "https://www.tiendajoven.net/"
     }
 </script>
 <script type="application/ld+json">
@@ -1949,49 +1949,49 @@ https://www.agualab.co.uk/
       "@type": "ListItem",
       "position": 1,
       "name": "KODE4D",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Togel Slot",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Slot Togel",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Situs Togel 4D ",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Bandar Togel",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Bandar Togel 4D",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Bandar Togel Resmi",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "KODE4D : Link Situs Slot Gacor 4D Hari Ini Deposit Slot Qris Terpercaya Resmi",
-      "item": "https://www.agualab.co.uk/"
+      "item": "https://www.tiendajoven.net/"
     }
   ]
 }
@@ -2005,7 +2005,7 @@ https://www.agualab.co.uk/
   "image": [
     "https://new-seo.xyz/images/slot-4.jpg"
   ],
-  "url": "https://www.agualab.co.uk/",
+  "url": "https://www.tiendajoven.net/",
   "telephone": "+62-813-9865-1256",
   "priceRange": "IDR",
   "address": {
@@ -2118,8 +2118,8 @@ https://www.agualab.co.uk/
                     var uba_current_store = 'us';
                     var uba_current_active_store = 'us';
                                             var uba_customer_url = "https://www.ubuy.com.kh/ubuycom/pages/cft-v1/?s_id=122&type=72&id=73a01cbfac5d2a66db954f1962da1a52";
-                                        var uba_baseurl = "https://www.agualab.co.uk/";
-                    var uba_weburl = "https://www.agualab.co.uk/";
+                                        var uba_baseurl = "https://www.tiendajoven.net/";
+                    var uba_weburl = "https://www.tiendajoven.net/";
                     var isDetail = "1";
                     var uba_catId = "";
                     var uba_is_mobile = "0";
