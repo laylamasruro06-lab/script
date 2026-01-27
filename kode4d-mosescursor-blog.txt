@@ -407,7 +407,7 @@
         <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
             <a href="/" elementtiming="ux-global-nav">
                 <span class="wt-screen-reader-only">KODE4D</span>
-                <img src="https://KODE4Dmekar.com/storage/settings/site_logo-1718195186.png" alt="KODE4D" style="max-height:40px;">
+                <img src="https://jet.kode4dmelon.com/images/logoweb.png" alt="KODE4D" style="max-height:40px;">
             </a>
         </div>
             <nav class="wt-hide-xs wt-show-lg">
