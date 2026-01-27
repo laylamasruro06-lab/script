@@ -53,7 +53,7 @@
 <link rel="preconnect" href="//i.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
-<link rel="preload" as="image" imagesrcset="https://jet.kode4dmelon.com/images/logoweb.png" fetchpriority="high" />
+<link rel="preload" as="image" imagesrcset="https://new-seo.xyz/images/kode4d-slots-2.jpg" fetchpriority="high" />
 <link rel="alternate" href="https://mosescursor.com/blog/" hreflang="id" />
 <script nonce="">
     !function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
@@ -176,9 +176,9 @@
    "@type": "ImageObject",
    "@context": "https://schema.org",
    "author": "KODE4D",
-   "contentURL": "https://jet.kode4dmelon.com/images/logoweb.png",
+   "contentURL": "https://new-seo.xyz/images/kode4d-slots-2.jpg",
    "description": null,
-   "thumbnail": "https://jet.kode4dmelon.com/images/logoweb.png"
+   "thumbnail": "https://new-seo.xyz/images/kode4d-slots-2.jpg"
   }],
   "category": "KODE4D < KODE4D SLOT < SLOT GACOR 4D",
   "brand": {
@@ -1216,11 +1216,11 @@ if (clientloggerIsEnabled) {
                             alt="KODE4D"
                             data-carousel-first-image
                             data-perf-group="main-product-image"
-                            src="https://jet.kode4dmelon.com/images/logoweb.png"
-                            srcset="https://jet.kode4dmelon.com/images/logoweb.png"
+                            src="https://new-seo.xyz/images/kode4d-slots-2.jpg"
+                            srcset="https://new-seo.xyz/images/kode4d-slots-2.jpg"
                             fetchpriority="high"    
                             data-original-image-width="3000"
-                            data-src-zoom-image="https://jet.kode4dmelon.com/images/logoweb.png"
+                            data-src-zoom-image="https://new-seo.xyz/images/kode4d-slots-2.jpg"
                             data-index="0"
                         />
                     </li>
@@ -2068,7 +2068,7 @@ if (clientloggerIsEnabled) {
 </button>
             <ul class="wt-list-unstyled wt-overflow-hidden image-overlay-list wt-position-relative wt-vertical-center wt-display-flex-xs wt-justify-content-center" style="padding-top: 80%;" data-image-overlay-list="" tabindex="0">
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image="" data-index="0" data-image-id="6256816164">
-                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--portrait" alt="KODE4D" data-delay-src="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg" data-delay-srcset="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x" data-original-image-width="3000" data-original-image-height="3000" data-index="0" data-src-zoom-image="https://jet.kode4dmelon.com/images/logoweb.png" />
+                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--portrait" alt="KODE4D" data-delay-src="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg" data-delay-srcset="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x" data-original-image-width="3000" data-original-image-height="3000" data-index="0" data-src-zoom-image="https://new-seo.xyz/images/kode4d-slots-2.jpg" />
                     </li>
                   
                 <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none" data-click-to-zoom-toast="">
