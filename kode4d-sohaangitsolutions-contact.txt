@@ -10,16 +10,16 @@
 <meta name="robots" content="index, follow" />
 <meta name=description content="KODE4D sebuah situs yang menjadi rekomendasi terbaik sebuah situs slot gacor di tahun 2026 yang memiliki lisensi resmi indonesia dan menyediakan banyak permainan terfavorit dan paling viral yang di bekali Rtp slot maxwin gampnag menang dan pastinya mudah menang besar di Kode 4D.">
 <link rel="shortcut icon" href="https://kode4dflight.com/favicon.png" />
-<link rel="canonical" href="https://sohaangitsolutions.online/">
-<link rel="amphtml" href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions/" />
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://sohaangitsolutions.online/" />
-<link rel="alternate" media="handheld" href="https://sohaangitsolutions.online/" />
+<link rel="canonical" href="https://sohaangitsolutions.online/contact_it_solutions/">
+<link rel="amphtml" href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions-contact/" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://sohaangitsolutions.online/contact_it_solutions/" />
+<link rel="alternate" media="handheld" href="https://sohaangitsolutions.online/contact_it_solutions/" />
 <meta name="author" content="KODE4D">
 <meta property="og:title" content="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang"/>
 <meta property="og:type" content="product"/>
 <meta property="og:product:currency" content="USD"/>
 <meta property="og:product:price" content="6.58"/>
-<meta property="og:url" content="https://sohaangitsolutions.online/">
+<meta property="og:url" content="https://sohaangitsolutions.online/contact_it_solutions/">
 <meta property="og:image" content="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"/>
 <meta property="og:description" content="KODE4D sebuah situs yang menjadi rekomendasi terbaik sebuah situs slot gacor di tahun 2026 yang memiliki lisensi resmi indonesia dan menyediakan banyak permainan terfavorit dan paling viral yang di bekali Rtp slot maxwin gampnag menang dan pastinya mudah menang besar di Kode 4D."/>
 <meta name="robots" content="max-snippet:50, max-image-preview:large" />
@@ -174,7 +174,7 @@
 	"shippingWeight":{ "@type":"QuantitativeValue", "value":"0.217", "unitText":"kg" },
     "offers": {
 		"@type":"Offer",
-		"url":"https://sohaangitsolutions.online/",
+		"url":"https://sohaangitsolutions.online/contact_it_solutions/",
 		"priceCurrency":"USD",
 		"price":"6.58",
 		"shippingDetails": {
@@ -218,7 +218,7 @@
 	"shippingWeight":{ "@type":"QuantitativeValue", "value":"0.217", "unitText":"kg" },
     "offers": {
 		"@type":"Offer",
-		"url":"https://sohaangitsolutions.online/",
+		"url":"https://sohaangitsolutions.online/contact_it_solutions/",
 		"priceCurrency":"USD",
 		"price":"6.58",
 		"shippingDetails": {
@@ -262,7 +262,7 @@
 	"shippingWeight":{ "@type":"QuantitativeValue", "value":"0.217", "unitText":"kg" },
     "offers": {
 		"@type":"Offer",
-		"url":"https://sohaangitsolutions.online/",
+		"url":"https://sohaangitsolutions.online/contact_it_solutions/",
 		"priceCurrency":"USD",
 		"price":"6.58",
 		"shippingDetails": {
@@ -284,14 +284,14 @@
             "@graph": [
                 {
                 "@type": "Product",
-                "@id": "https://sohaangitsolutions.online/",
+                "@id": "https://sohaangitsolutions.online/contact_it_solutions/",
                 "name": "KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang",
                 "image": [
                     "https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg",
                     "https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"
                 ],
                 "description": "KODE4D sebuah situs yang menjadi rekomendasi terbaik sebuah situs slot gacor di tahun 2026 yang memiliki lisensi resmi indonesia dan menyediakan banyak permainan terfavorit dan paling viral yang di bekali Rtp slot maxwin gampnag menang dan pastinya mudah menang besar di Kode 4D.",
-                "url": "https://sohaangitsolutions.online/",
+                "url": "https://sohaangitsolutions.online/contact_it_solutions/",
                 "brand": {
                     "@type": "Brand",
                     "name": "KODE4D"
@@ -301,7 +301,7 @@
                     "priceCurrency": "IDR",
                     "price": "10000",
                     "availability": "https://schema.org/InStock",
-                    "url": "https://sohaangitsolutions.online/"
+                    "url": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 "aggregateRating": {
                     "@type": "AggregateRating",
@@ -360,7 +360,7 @@
         "@context": "https://schema.org",
         "@type": "SiteNavigationElement",
         "name": "KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang",
-        "url": "https://sohaangitsolutions.online/"
+        "url": "https://sohaangitsolutions.online/contact_it_solutions/"
         }
     </script>
         <script type="application/ld+json">
@@ -372,49 +372,49 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "KODE4D",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "KODE 4D",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "KODE4D SLOT",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 4,
                 "name": "KODE4D LOGIN",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 5,
                 "name": "KODE4D ALTERNATIF",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 6,
                 "name": "SLOT GACOR",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 7,
                 "name": "SLOT ONLINE",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 8,
                 "name": "SLOT RESMI",
-                "item": "https://sohaangitsolutions.online/"
+                "item": "https://sohaangitsolutions.online/contact_it_solutions/"
                 }
             ]
             }
@@ -429,7 +429,7 @@
         "image": [
             "https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"
         ],
-        "url": "https://sohaangitsolutions.online/",
+        "url": "https://sohaangitsolutions.online/contact_it_solutions/",
         "telephone": "+62-813-3265-1298",
         "priceRange": "IDR",
         "address": {
@@ -453,7 +453,7 @@
             "@context": "https://schema.org",
             "@type": "SiteNavigationElement",
             "name": "KODE4D",
-            "url": "https://sohaangitsolutions.online/"
+            "url": "https://sohaangitsolutions.online/contact_it_solutions/"
             }
         </script>
 
@@ -1216,7 +1216,7 @@
         						        		<ul>
 				<li id="header-appdownload-qrcode">
         			<div>
-						<a href="https://sohaangitsolutions.online/">
+						<a href="https://sohaangitsolutions.online/contact_it_solutions/">
     						<span class="icon download-app"></span>
     						<span>App</span>
                         </a>
@@ -1225,7 +1225,7 @@
 				</li>
 				<li id="h5_qr_code">
         			<div>
-						<a href="https://sohaangitsolutions.online/">
+						<a href="https://sohaangitsolutions.online/contact_it_solutions/">
     						<span class="icon client"></span>
     						<span>Mobile</span>
                         </a>
@@ -1234,7 +1234,7 @@
         		</li>
         			        			<li>
         				<div>
-							<a id="msgMenu" target="_blank" href="https://sohaangitsolutions.online/">
+							<a id="msgMenu" target="_blank" href="https://sohaangitsolutions.online/contact_it_solutions/">
 								<span class="icon online-message"></span>
 								<span>Message</span>
 								<span class="msgNot"></span>
@@ -1278,7 +1278,7 @@
 												<div class="top-content">
 			<div class="top-content-left">
 				<div class="logo">
-					<a href="https://sohaangitsolutions.online/">
+					<a href="https://sohaangitsolutions.online/contact_it_solutions/">
 																<img src="https://kode4dflight.com/images/logoweb.png" style="width:195px; padding-top:18px;">
 										</a>
 				</div>
@@ -1288,14 +1288,14 @@
 					<ul>
 						
 						<li class="top-wish">
-							<a href="https://sohaangitsolutions.online/">
+							<a href="https://sohaangitsolutions.online/contact_it_solutions/">
 								<span class="top-wish-icon"></span>
 								<span>
 									Wish <br> List								</span>
 							</a>
 						</li>
 						<li style="margin-left:30px;" class="top-cart">
-							<a href="https://sohaangitsolutions.online/">
+							<a href="https://sohaangitsolutions.online/contact_it_solutions/">
 								<span class="top-cart-icon"></span>
 								<span class="cart-qty-con">
 									<span class="cart-qty-arrow"></span>
@@ -1309,7 +1309,7 @@
 			</div>
 			<div class="top-content-fill top-content-fill-fi">
 				<div class="top-search">
-					<form action="https://sohaangitsolutions.online/" class="top-search-form" method="get">
+					<form action="https://sohaangitsolutions.online/contact_it_solutions/" class="top-search-form" method="get">
 						<div class="top-content-left">
 							<div class="top-search-category">
 								<div class="top-search-select">
@@ -1412,16 +1412,16 @@
 						});
 					</script>
 								<ul class="top-hot-search clearfix">
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs gacor</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs gacor hari ini</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs gacor maxwin</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs gacor 2026</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">KODE4D</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs gacor terbaru</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs deposit dana</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs ONLINE</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs gacor hari ini 2026</a></li>
-    <li><a href="https://sohaangitsolutions.online/" target="_blank">Situs pulsa</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs gacor</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs gacor hari ini</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs gacor maxwin</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs gacor 2026</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">KODE4D</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs gacor terbaru</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs deposit dana</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs ONLINE</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs gacor hari ini 2026</a></li>
+    <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">Situs pulsa</a></li>
 </ul>
 				</div>
 			</div>
@@ -1430,7 +1430,7 @@
 	<div class="top-category">
     <div class="content">
         <div id="product-category" class="product-category" style="z-index:110;">
-            <a href="https://sohaangitsolutions.online/">
+            <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                 <span class="shop-by">KODE4D</span>
             </a>
             <span class="shop-by-arrow"></span>
@@ -1439,7 +1439,7 @@
                 <ul id="header-category-list" class="category-list">
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_111457"></span>
                             <span>Apple Parts</span>
                             <span class="category-list-arrow"></span>
@@ -1448,7 +1448,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_111458"></span>
                             <span>Samsung Parts</span>
                             <span class="category-list-arrow"></span>
@@ -1457,7 +1457,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_1"></span>
                             <span>Mobile Parts</span>
                             <span class="category-list-arrow"></span>
@@ -1466,7 +1466,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_103106"></span>
                             <span>Apple Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1475,7 +1475,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_109713"></span>
                             <span>Samsung Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1484,7 +1484,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_109714"></span>
                             <span>Xiaomi Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1493,7 +1493,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_109715"></span>
                             <span>OnePlus &amp; OPPO Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1502,7 +1502,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_102159"></span>
                             <span>Mobile Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1511,7 +1511,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_110474"></span>
                             <span>Smart Wear</span>
                             <span class="category-list-arrow"></span>
@@ -1520,7 +1520,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_100735"></span>
                             <span>Smart Phones</span>
                             <span class="category-list-arrow"></span>
@@ -1529,7 +1529,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_105365"></span>
                             <span>DJI &amp; GoPro Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1538,7 +1538,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_102157"></span>
                             <span>Camera Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1547,7 +1547,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_4"></span>
                             <span>Game Accessories</span>
                             <span class="category-list-arrow"></span>
@@ -1556,7 +1556,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_3"></span>
                             <span>Consumer Electronics</span>
                             <span class="category-list-arrow"></span>
@@ -1565,7 +1565,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_2"></span>
                             <span>Computer &amp; Networking</span>
                             <span class="category-list-arrow"></span>
@@ -1574,7 +1574,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_100848"></span>
                             <span>In Car</span>
                             <span class="category-list-arrow"></span>
@@ -1583,7 +1583,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_100035"></span>
                             <span>Security</span>
                             <span class="category-list-arrow"></span>
@@ -1592,7 +1592,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_101026"></span>
                             <span>Outdoor &amp; Sports</span>
                             <span class="category-list-arrow"></span>
@@ -1601,7 +1601,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_100715"></span>
                             <span>Home &amp; Garden</span>
                             <span class="category-list-arrow"></span>
@@ -1610,7 +1610,7 @@
                     </li>
 
                     <li>
-                        <a href="https://sohaangitsolutions.online/">
+                        <a href="https://sohaangitsolutions.online/contact_it_solutions/">
                             <span class="category-list-icon icon_111368"></span>
                             <span>Print Your Demand(POD)</span>
                             <span class="category-list-arrow"></span>
@@ -1661,17 +1661,17 @@
 <DIV id=ppcontainer>
 <DIV class="clearfix ppTop" id="ppTop">
 	<div style="padding-top:0.5em" class="nextprev">  
-		        <a class="itemnext" href="https://sohaangitsolutions.online/">Next</a>
+		        <a class="itemnext" href="https://sohaangitsolutions.online/contact_it_solutions/">Next</a>
 		        <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-		        <a class="itemprev" href="https://sohaangitsolutions.online/">Previous</a>
+		        <a class="itemprev" href="https://sohaangitsolutions.online/contact_it_solutions/">Previous</a>
 		    </div>
-	<A class="recommend icon" href="https://sohaangitsolutions.online/" onclick="mailToFriends()">Mail to Friends</A> 
-	<A class="fav-btn fav2 icon " href="https://sohaangitsolutions.online/" onclick="addToFavList(this)" rel="3783586">Add to Wishlist</A>
+	<A class="recommend icon" href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="mailToFriends()">Mail to Friends</A> 
+	<A class="fav-btn fav2 icon " href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="addToFavList(this)" rel="3783586">Add to Wishlist</A>
 	<DIV class=breadCrumb>
-		<A class="catpos" catId="0" href="https://sohaangitsolutions.online/">KODE4D</A>
-    	    		»&nbsp; <A class="catpos" catId="102159" href="https://sohaangitsolutions.online/">Situs gacor</A>
-		    		»&nbsp; <A class="catpos" catId="101193" href="https://sohaangitsolutions.online/">KODE4D</A>
-		    		»&nbsp; <A class="catpos" catId="101209" href="https://sohaangitsolutions.online/">Situs gacor 2026</A>
+		<A class="catpos" catId="0" href="https://sohaangitsolutions.online/contact_it_solutions/">KODE4D</A>
+    	    		»&nbsp; <A class="catpos" catId="102159" href="https://sohaangitsolutions.online/contact_it_solutions/">Situs gacor</A>
+		    		»&nbsp; <A class="catpos" catId="101193" href="https://sohaangitsolutions.online/contact_it_solutions/">KODE4D</A>
+		    		»&nbsp; <A class="catpos" catId="101209" href="https://sohaangitsolutions.online/contact_it_solutions/">Situs gacor 2026</A>
     </div>
 </div>
 			                                                    	</DIV>
@@ -1720,8 +1720,8 @@
 					</div>
 					<div style="overflow:hidden;text-align:center;padding-top:10px;border-top:1px solid #ddd;margin-top:10px;">
 						<b>SUNSKY Free App</b>
-						<a target="_blank" href="https://sohaangitsolutions.online/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/android_app.png"></a>
-						<a target="_blank" href="https://sohaangitsolutions.online/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/apple_app.png"></a>
+						<a target="_blank" href="https://sohaangitsolutions.online/contact_it_solutions/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/android_app.png"></a>
+						<a target="_blank" href="https://sohaangitsolutions.online/contact_it_solutions/"><img style="vertical-align:middle" src="https://img.myipadbox.com/htdocs/images/apple_app.png"></a>
 					</div>
 				</div>
 			</div>
@@ -1731,7 +1731,7 @@
 
 
 
-<form id=buyForm action="https://sohaangitsolutions.online/" method=post>
+<form id=buyForm action="https://sohaangitsolutions.online/contact_it_solutions/" method=post>
 <div style="display:none" class="productfixtop">
   <div class="fixtopimg">
 	<img src="https://kode4dflight.com/favicon.png" alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang">
@@ -1753,28 +1753,28 @@
 	</TABLE>
 	<div class="modelDiv">
 							<DIV class="colorDiv currModel">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3911W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3911W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3910W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE 4D</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3910W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE 4D</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3912W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D SLOT</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3912W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D SLOT</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3913W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D LOGIN</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3913W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D LOGIN</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3923W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D ALTERNATIF</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3923W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >KODE4D ALTERNATIF</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3922W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >SLOT GACOR</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3922W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >SLOT GACOR</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3921W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >SLOT ONLINE</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3921W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >SLOT ONLINE</div></a>
     		</DIV>
 					<DIV class="colorDiv ">
-    			<a href="https://sohaangitsolutions.online/" onclick="view('MPD3924W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >SLOT RESMI</div></a>
+    			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="view('MPD3924W')" class="modelImg" prevImg="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg"><div >SLOT RESMI</div></a>
     		</DIV>
             
 					<div class="more-style"><i></i><i style="top:5px;"></i></div>
@@ -1796,7 +1796,7 @@
 <div class="productBuyButton" style="margin-top:7px;">
     <input type="hidden" class="productId" name="productId" value="3783586" />
     <input type="hidden" class="specsId" name="specsId" />
-    <input type="hidden" name="toUrl" value="https://sohaangitsolutions.online/" />
+    <input type="hidden" name="toUrl" value="https://sohaangitsolutions.online/contact_it_solutions/" />
         	<table border="0" cellspacing="0" cellpadding="3">
 		<tr>
 							<td>
@@ -1811,13 +1811,13 @@
 					</select>
 				</td>
 				<td>
-    <a href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions/" onclick="return addToCart(this)">
+    <a href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions-contact/" onclick="return addToCart(this)">
         <div id="addtocartbtn" class="addtocartbtn cart-btn">LOGIN</div>
     </a>
 </td>
 
 <td>
-    <a href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions/" onclick="return addToCart(this, true)">
+    <a href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions-contact/" onclick="return addToCart(this, true)">
         <div id="checkoutbtn" class="checkoutbtn cart-btn">DAFTAR</div>
     </a>
 </td>
@@ -1858,7 +1858,7 @@
             </div>
             <div class="product-shipping-more">
             	<img src="https://img.myipadbox.com/htdocs/images/shiptime.gif" border=0 align=absmiddle />
-            	<a href="https://sohaangitsolutions.online/" id="product-show-more-shipping" style="text-decoration:underline;">More Methods</a>
+            	<a href="https://sohaangitsolutions.online/contact_it_solutions/" id="product-show-more-shipping" style="text-decoration:underline;">More Methods</a>
 				<DIV class="divWay" id="divWay">
                     <TABLE class=tblWay border=0 cellpadding=5 cellspacing=0 width="100%">
                     	<TR style="background-color:#E8D613">
@@ -1879,7 +1879,7 @@
         	<div align="right" style="margin-top:5px;">
         		by <span class="shippingWay bold"></span> &nbsp;
         		<img src="https://img.myipadbox.com/htdocs/images/shiptime.gif" border=0 align=absmiddle />
-            	<a href="https://sohaangitsolutions.online/" onclick="showSWList(event)" style="text-decoration:underline;">More Methods</a>
+            	<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showSWList(event)" style="text-decoration:underline;">More Methods</a>
         	</div>
         </div>
 		<div class="divSC" id="divSCNoWays" style="display:none;margin-top:4px;">
@@ -2059,13 +2059,13 @@
 	</TR>
     <TR>
     	<TD>
-			<DIV class="ico_contact ico_chat" title="Online 24JAM" align="left"><A id="ico_chat" href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions/" rel="#inquiryDlg">Online 24JAM</a></DIV>
+			<DIV class="ico_contact ico_chat" title="Online 24JAM" align="left"><A id="ico_chat" href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions-contact/" rel="#inquiryDlg">Online 24JAM</a></DIV>
     	</TD>
 		<TD></TD>
 	</TR>
 		<TR>
     	<TD>
-    		<DIV class="ico_contact ico_whatsapp" title="WhatsApp" align="left"><a href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions/" target="_blank">Hubungi Kami</a></DIV>
+    		<DIV class="ico_contact ico_whatsapp" title="WhatsApp" align="left"><a href="https://kode4d-official.xyz/amp/kode4d-sohaangitsolutions-contact/" target="_blank">Hubungi Kami</a></DIV>
     	</TD>
 		<TD></TD>
 	</TR>
@@ -2083,25 +2083,25 @@
 				<TD align="right" class="contact-info-more">
 			<div class="clearfix">
 				<div style="float:left;">
-				    			<A class="global-more" href="https://sohaangitsolutions.online/" onclick="showChat(event)" title="More Live Chat">More</A>
+				    			<A class="global-more" href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showChat(event)" title="More Live Chat">More</A>
     							</div>
 				<DIV class="itemDiv fbLinks" style="float:right;">
-            		<a class="fbLink priceMatch" href="https://sohaangitsolutions.online/" rel="#priceMatchDlg">Price Match</a>
-            		<a class="fbLink errorReport" href="https://sohaangitsolutions.online/" rel="#errorReportDlg">Error Report</a>
+            		<a class="fbLink priceMatch" href="https://sohaangitsolutions.online/contact_it_solutions/" rel="#priceMatchDlg">Price Match</a>
+            		<a class="fbLink errorReport" href="https://sohaangitsolutions.online/contact_it_solutions/" rel="#errorReportDlg">Error Report</a>
             	</DIV>
 			</div>
 		</TD>
     </TR>
     </TABLE>
 	<DIV class="itemDiv fbLinks" style="margin-top:10px">
-		<a class="fbLink priceMatch" href="https://sohaangitsolutions.online/" rel="#priceMatchDlg">Price Match</a>
-		<a class="fbLink errorReport" href="https://sohaangitsolutions.online/" rel="#errorReportDlg">Error Report</a>
+		<a class="fbLink priceMatch" href="https://sohaangitsolutions.online/contact_it_solutions/" rel="#priceMatchDlg">Price Match</a>
+		<a class="fbLink errorReport" href="https://sohaangitsolutions.online/contact_it_solutions/" rel="#errorReportDlg">Error Report</a>
 	</DIV>
 	<div class="return-service clearfix">
 		<table>
 			<tr>
 				<td class="return-service-icon"><div class="return-service-icon"><img src="https://img.myipadbox.com/htdocs/images/guarantee.png"></div></td>
-				<td class="return-service-content">We always strive to achieve low prices and good quality, and promised insured and return service. <br><a href="https://sohaangitsolutions.online/" target="_blank">View after-sales terms</a></td>
+				<td class="return-service-content">We always strive to achieve low prices and good quality, and promised insured and return service. <br><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank">View after-sales terms</a></td>
 			</tr>
 		</table>
 	</div>
@@ -2112,7 +2112,7 @@
 		<table id="picTbl" border="0" cellpadding=0 cellspacing=0>
 			<tr>
 				<td>
-					<A href="https://sohaangitsolutions.online/" onclick="showImgList()">
+					<A href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
 						<DIV id="divSmall" style="position:relative;">
 							<IMG style="width:100%" alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang" id="mainImg" src="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg" zoom="https://ik.imagekit.io/dddvevhpo/phising-khusus/tari303-1.jpg" border="0" style="max-width:500px;">
 							<div id="divMove" style="position:absolute;display:none;opacity:.5;background:#CCC;width:100px;height:100px;z-index:1000;"></div>
@@ -2130,7 +2130,7 @@
         <ul class="clearfix" id="picCtn" style="width:371px; display:block;">
 
             <li>
-                <a href="https://sohaangitsolutions.online/" onclick="showImgList()">
+                <a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang"
@@ -2142,7 +2142,7 @@
             </li>
 
             <li>
-                <a href="https://sohaangitsolutions.online/" onclick="showImgList()">
+                <a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang - 1"
@@ -2154,7 +2154,7 @@
             </li>
 
             <li>
-                <a href="https://sohaangitsolutions.online/" onclick="showImgList()">
+                <a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang - 2"
@@ -2166,7 +2166,7 @@
             </li>
 
             <li>
-                <a href="https://sohaangitsolutions.online/" onclick="showImgList()">
+                <a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang - 3"
@@ -2178,7 +2178,7 @@
             </li>
 
             <li>
-                <a href="https://sohaangitsolutions.online/" onclick="showImgList()">
+                <a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang - 4"
@@ -2190,7 +2190,7 @@
             </li>
 
             <li>
-                <a href="https://sohaangitsolutions.online/" onclick="showImgList()">
+                <a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang - 5"
@@ -2202,7 +2202,7 @@
             </li>
 
             <li>
-                <a href="https://sohaangitsolutions.online/" onclick="showImgList()">
+                <a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showImgList()">
                     <span></span>
                     <img class="zoom"
                          alt="KODE4D : Rekomendasi Situs Slot Maxwin Berbasis Online Paling Gacor KODE 4D Mudah Menang - 6"
@@ -2223,13 +2223,13 @@
 		
     	<DIV style="float:right;">
 			<DIV>
-        		        		<div style="float:left;margin-right:0px;"><div class="fb-share-button" data-href="https://sohaangitsolutions.online/" data-layout="button_count"></div></div>
-				<div style="float:left;margin-right:0px;"><a class="twitter-share-button" href="https://sohaangitsolutions.online/"></a></div>
-				<div class="pinDiv" style="float:left;margin-right:10px;"><a data-pin-do="buttonPin" data-pin-count="beside" href="https://sohaangitsolutions.online/"><!--img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /--></a></div>
+        		        		<div style="float:left;margin-right:0px;"><div class="fb-share-button" data-href="https://sohaangitsolutions.online/contact_it_solutions/" data-layout="button_count"></div></div>
+				<div style="float:left;margin-right:0px;"><a class="twitter-share-button" href="https://sohaangitsolutions.online/contact_it_solutions/"></a></div>
+				<div class="pinDiv" style="float:left;margin-right:10px;"><a data-pin-do="buttonPin" data-pin-count="beside" href="https://sohaangitsolutions.online/contact_it_solutions/"><!--img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /--></a></div>
 				<div style="float:left;"><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">document.write(VK.Share.button(false,{type: "round", text: "Share"}));</script></div>
 				<DIV style="clear:both;"></DIV>
 			</DIV>
-			<DIV style="font-weight:bold;color:#f90000;" align="center"><a href="https://sohaangitsolutions.online/" target="_blank" style="font-weight:bold;color:#f90000;display:block;max-width:320px;">Share it, earn Points &amp; Promo Rebates</a></DIV>
+			<DIV style="font-weight:bold;color:#f90000;" align="center"><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank" style="font-weight:bold;color:#f90000;display:block;max-width:320px;">Share it, earn Points &amp; Promo Rebates</a></DIV>
     	</DIV>
 
 		<DIV style="clear:both;"></DIV>
@@ -2271,7 +2271,7 @@
         <DIV style="margin:0 2px 12px 2px;">
 artikel                	
 			<div>
-<p style="text-align: justify;"><a href="https://sohaangitsolutions.online/" style="color: #00f7ff; text-decoration: none;">KODE4D</a> sebuah situs yang menjadi rekomendasi terbaik sebuah situs slot gacor di tahun 2026 yang memiliki lisensi resmi indonesia dan menyediakan banyak permainan terfavorit dan paling viral yang di bekali Rtp slot maxwin gampnag menang dan pastinya mudah menang besar di Kode 4D.</p></div>
+<p style="text-align: justify;"><a href="https://sohaangitsolutions.online/contact_it_solutions/" style="color: #00f7ff; text-decoration: none;">KODE4D</a> sebuah situs yang menjadi rekomendasi terbaik sebuah situs slot gacor di tahun 2026 yang memiliki lisensi resmi indonesia dan menyediakan banyak permainan terfavorit dan paling viral yang di bekali Rtp slot maxwin gampnag menang dan pastinya mudah menang besar di Kode 4D.</p></div>
 			<div style="margin:12px 0;">
 				<div class="params_begin">Specification:</div>
 <div class="params_group">
@@ -2287,9 +2287,9 @@ artikel
 					<td class="params_name">Compatible with</td>
 			<td class="params_value">
 						  <div>
-				<a href="https://sohaangitsolutions.online/"><b> Situs gacor</b></a>&nbsp;
+				<a href="https://sohaangitsolutions.online/contact_it_solutions/"><b> Situs gacor</b></a>&nbsp;
 																		
-										<a href="https://sohaangitsolutions.online/">KODE4D</a>
+										<a href="https://sohaangitsolutions.online/contact_it_solutions/">KODE4D</a>
 											  </div>
 						</td>
 					</tr>
@@ -2367,12 +2367,12 @@ artikel
 				</td>
 				<td>
 					<div style="margin-bottom:5px;">
-						The customers who buy the product and write good quality reviews could obtain 10 <a href='https://sohaangitsolutions.online/' target='_blank' style='text-decoration:underline;'>GACOR Points</a>($0.20).
+						The customers who buy the product and write good quality reviews could obtain 10 <a href='https://sohaangitsolutions.online/contact_it_solutions/' target='_blank' style='text-decoration:underline;'>GACOR Points</a>($0.20).
 					</div>
 										<div style="float:left;">
-						<a class="checkoutbtn" style="text-decoration:none" href="https://sohaangitsolutions.online/" onclick="showReviewDlg()">write a review</a>
+						<a class="checkoutbtn" style="text-decoration:none" href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="showReviewDlg()">write a review</a>
 					</div>
-					<div style="float:right;"><img src="https://img.myipadbox.com/htdocs/images/xgift.gif" align="absmiddle"> <a href="https://sohaangitsolutions.online/" target="_blank" style="text-decoration:underline;">Win a Gift</a></div>
+					<div style="float:right;"><img src="https://img.myipadbox.com/htdocs/images/xgift.gif" align="absmiddle"> <a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank" style="text-decoration:underline;">Win a Gift</a></div>
 					<div style="clear:both;"></div>
 				</td>
 			</tr>
@@ -2380,15 +2380,15 @@ artikel
 		
 				<DIV class="rv-tabbar">
 			<DIV class="rv-tab rv-tab-cur">
-				<a href="https://sohaangitsolutions.online/">All Reviews</a>
+				<a href="https://sohaangitsolutions.online/contact_it_solutions/">All Reviews</a>
 				<DIV class="rv-tab-bot"></DIV>
 			</DIV>
 			<DIV class="rv-tab">
-				<a href="https://sohaangitsolutions.online/#reviews">Medium Reviews (<span class="rv-cnt">0</span>)</a>
+				<a href="https://sohaangitsolutions.online/contact_it_solutions/#reviews">Medium Reviews (<span class="rv-cnt">0</span>)</a>
 				<DIV class="rv-tab-bot"></DIV>
 			</DIV>
 			<DIV class="rv-tab rv-tab-end">
-								<a href="https://sohaangitsolutions.online/">Bad Reviews (<span class="rv-cnt">0</span>)</a>
+								<a href="https://sohaangitsolutions.online/contact_it_solutions/">Bad Reviews (<span class="rv-cnt">0</span>)</a>
 				<DIV class="rv-tab-bot"></DIV>
 			</DIV>
 			<DIV style="clear:both;"></DIV>
@@ -2735,13 +2735,13 @@ artikel
         <div class="footer-block footer-block--menu">
             <p class="footer-block__heading">Kunjungi Halaman Kami Lainnya</p>
             <ul class="footer-block__details-content list-unstyled">
-                <li><a href="https://sohaangitsolutions.online/" class="footer_content_list link link--text">KODE4D</a></li>
-                <li><a href="https://sohaangitsolutions.online/" class="footer_content_list link link--text">KODE 4D</a></li>
-                <li><a href="https://sohaangitsolutions.online/" class="footer_content_list link link--text">KODE4D SLOT</a></li>
-                <li><a href="https://sohaangitsolutions.online/" class="footer_content_list link link--text">KODE4D LOGIN</a></li>
-                <li><a href="https://sohaangitsolutions.online/" class="footer_content_list link link--text">SLOT GACOR</a></li>
-                <li><a href="https://sohaangitsolutions.online/" class="footer_content_list link link--text">SLOT ONLINE</a></li>
-                <li><a href="https://sohaangitsolutions.online/" class="footer_content_list link link--text">SLOT RESMI</a></li>
+                <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" class="footer_content_list link link--text">KODE4D</a></li>
+                <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" class="footer_content_list link link--text">KODE 4D</a></li>
+                <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" class="footer_content_list link link--text">KODE4D SLOT</a></li>
+                <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" class="footer_content_list link link--text">KODE4D LOGIN</a></li>
+                <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" class="footer_content_list link link--text">SLOT GACOR</a></li>
+                <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" class="footer_content_list link link--text">SLOT ONLINE</a></li>
+                <li><a href="https://sohaangitsolutions.online/contact_it_solutions/" class="footer_content_list link link--text">SLOT RESMI</a></li>
             </ul>
         </div>
     </div>
@@ -2773,7 +2773,7 @@ artikel
 	
 		jQuery.ajax({
 			type: "POST",
-			url: "https://sohaangitsolutions.online/",
+			url: "https://sohaangitsolutions.online/contact_it_solutions/",
 			data: { email: email },
     		success: function(rspTxt) {
 				$(".submit").attr("disabled", false);
@@ -2801,7 +2801,7 @@ artikel
 		if (kv[0] > 0) {
 			m.find(".msgNot").css("display", "inline-block");
 			m.find(".msgNot span").text(kv[0]);
-			m.attr("href", "https://sohaangitsolutions.online/" + kv[1]);
+			m.attr("href", "https://sohaangitsolutions.online/contact_it_solutions/" + kv[1]);
 			$('#chat-bottom-form .chat-bottom-header .chat-bottom-msgcount').text(kv[0]).show();
 			$('#chat-bottom-form .chat-bottom-header .chat-bottom-icon img').attr('src', 'https://img.myipadbox.com/htdocs/images/message_icon.gif');
 			$('#chat-bottom-form').addClass('msgalert');
@@ -2861,7 +2861,7 @@ artikel
 </textarea>
 
 <div id="cookiesHint_1" style="width:100%;height: 40px; background: rgba(0,0,0,0.7); color:#FFF; padding-top:8px; position: fixed; bottom: 0; left: 0; z-index: 1010;" align="center">
-	<p>KODE4D sebuah situs yang menjadi rekomendasi terbaik sebuah situs slot gacor di tahun 2026 yang memiliki lisensi resmi indonesia dan menyediakan banyak permainan terfavorit dan paling viral yang di bekali Rtp slot maxwin gampnag menang dan pastinya mudah menang besar di Kode 4D. <br><a href="https://sohaangitsolutions.online/" target="_blank" style="color: #ce720a; font-weight:bold; text-decoration:underline;">Klik Disini</a>
+	<p>KODE4D sebuah situs yang menjadi rekomendasi terbaik sebuah situs slot gacor di tahun 2026 yang memiliki lisensi resmi indonesia dan menyediakan banyak permainan terfavorit dan paling viral yang di bekali Rtp slot maxwin gampnag menang dan pastinya mudah menang besar di Kode 4D. <br><a href="https://sohaangitsolutions.online/contact_it_solutions/" target="_blank" style="color: #ce720a; font-weight:bold; text-decoration:underline;">Klik Disini</a>
 	<span onclick="confirmCookies(1)" style="width: 128px; height: 24px; display: inline-block; background-color: #66b500; color: #fff; font-size: 13px; line-height: 24px; border-radius: 12px; cursor: pointer; margin-left: 30px; text-align: center;">I agree</span></p>
 </div>
 <script>
@@ -2913,7 +2913,7 @@ document.addEventListener('click', function (e) {
     <H4>Message</H4>
     <P class="cartInfo" style="display:none;"><SPAN id="itemCount" class="red bold"></SPAN>&nbsp;kind(s) of item(s) in cart, total amount: <SPAN id="cartAmount" class="red bold"></SPAN></P>
 	<P class="skin-gray cartInfo" style="display:none;">
-		<A style="background:#6fbb00;color:#fff;padding:2px 5px;border-radius:2px;text-decoration:none;" href="https://sohaangitsolutions.online/" target="_top">
+		<A style="background:#6fbb00;color:#fff;padding:2px 5px;border-radius:2px;text-decoration:none;" href="https://sohaangitsolutions.online/contact_it_solutions/" target="_top">
 			View Cart
 		</A>
 	</P>
@@ -3101,11 +3101,11 @@ document.addEventListener('click', function (e) {
 					    		<SPAN 	><DIV class="formField clearfix alt ">
         		<DIV class="form_title" style="float:left;">Your Rating:</DIV>
         		<DIV style="float:right;width:454px;margin-right:138px;margin-top:4px">
-        			<a href="https://sohaangitsolutions.online/" onclick="rate(this, 'score')" class="rating unfilled" v="1" title="Very Disappointing"></a>
-    				<a href="https://sohaangitsolutions.online/" onclick="rate(this, 'score')" class="rating unfilled" v="2" title="Disappointing"></a>
-    				<a href="https://sohaangitsolutions.online/" onclick="rate(this, 'score')" class="rating unfilled" v="3" title="Not Bad"></a>
-    				<a href="https://sohaangitsolutions.online/" onclick="rate(this, 'score')" class="rating unfilled" v="4" title="Good"></a>
-    				<a href="https://sohaangitsolutions.online/" onclick="rate(this, 'score')" class="rating unfilled" v="5" title="Very Good"></a>
+        			<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="rate(this, 'score')" class="rating unfilled" v="1" title="Very Disappointing"></a>
+    				<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="rate(this, 'score')" class="rating unfilled" v="2" title="Disappointing"></a>
+    				<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="rate(this, 'score')" class="rating unfilled" v="3" title="Not Bad"></a>
+    				<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="rate(this, 'score')" class="rating unfilled" v="4" title="Good"></a>
+    				<a href="https://sohaangitsolutions.online/contact_it_solutions/" onclick="rate(this, 'score')" class="rating unfilled" v="5" title="Very Good"></a>
     				<input type="hidden" id="score" name="score" value="0" />
         		</DIV>
         	</DIV></SPAN>  
@@ -3163,6 +3163,5 @@ document.addEventListener('click', function (e) {
 	</div> 
 </div>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"869c30f431ca48578558fbdfb55d2e41","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"9d960f5b021f49f3ad987facfcd91fd1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </BODY>
 </html>
