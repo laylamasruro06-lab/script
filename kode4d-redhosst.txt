@@ -1,7 +1,6 @@
 
 
 
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <HTML xmlns="http://www.w3.org/1999/xhtml" lang="en"><HEAD>
 <title>KODE4D - Penyedia Situs Slot Gacor & Toto Online Terpercaya Pasar Besar Di Indonesia</title>
@@ -9,7 +8,7 @@
 <meta name=description content="KODE4D salah satu situs slot gacor penyedia layanan bermain toto online sebagai pasar judi togel toto terbesar di indonesia memiliki winrate terbesar yang mudah di menangkan serta bocoran nomor dan bocoran pola slot gacor.">
 <link rel="shortcut icon" href="https://new-seo.xyz/images/icon-kode.jpg" />
 <link rel="canonical" href="https://redhost.ing/" />
-<link rel="amphtml" href="https://Kode4D-cuan.pages.dev/" />
+<link rel="amphtml" href="https://kode4d-redhost.pages.dev/" />
 <link rel="alternate" media="only screen and (max-width: 640px)" href="https://redhost.ing/" />
 <link rel="alternate" media="handheld" href="https://redhost.ing/" />
 <meta name="author" content="Kode4D">
@@ -2142,8 +2141,8 @@ header a:hover {
 							</a>
 						</li>
 						<li class="top-actions" style="display:flex; align-items:center; gap:5px;">
-							<a href="https://Kode4D-cuan.pages.dev/" class="btn-login action-btn">Login</a>
-							<a href="https://Kode4D-cuan.pages.dev/" class="btn-register action-btn floating">Daftar</a>
+							<a href="https://kode4d-redhost.pages.dev/" class="btn-login action-btn">Login</a>
+							<a href="https://kode4d-redhost.pages.dev/" class="btn-register action-btn floating">Daftar</a>
 						</li>
 			
 					</ul>
@@ -2964,8 +2963,8 @@ table {
     </style>
     
     <div class="n-columns-2">
-        <a href="https://Kode4D-cuan.pages.dev/" rel="nofollow noreferrer" class="login">DAFTAR</a>
-        <a href="https://Kode4D-cuan.pages.dev/" rel="nofollow noreferrer" class="register">MASUK</a>
+        <a href="https://kode4d-redhost.pages.dev/" rel="nofollow noreferrer" class="login">DAFTAR</a>
+        <a href="https://kode4d-redhost.pages.dev/" rel="nofollow noreferrer" class="register">MASUK</a>
     </div>		
 					<div style="display:none" id="erpSelectorList">
 						<div frm-url="https://open.sunsky-online.com/shopify/product!setupUploadForSingle.do?itemNo=MPD3913W" frm-title="Upload to Shopify"><span class="shopify10"></span><span style="">Shopify V1.0 (legacy)</span></div>
@@ -7354,28 +7353,28 @@ document.addEventListener('click', function (e) {
 }
 </style>
 <div class="Kode4D-footer">
-    <a href="https://Kode4D-cuan.pages.dev/" class="active">
+    <a href="https://kode4d-redhost.pages.dev/" class="active">
         <img src="https://iili.io/qGsn0cN.png" alt="Promo Kode4D">
         <span>Promo</span>
     </a>
     
-    <a href="https://Kode4D-cuan.pages.dev/">
+    <a href="https://kode4d-redhost.pages.dev/">
         <img src="https://iili.io/qGsY1uR.png" alt="Daftar Kode4D">
         <span>Daftar</span>
         <span class="badge">3</span>
     </a>
     
-    <a href="https://Kode4D-cuan.pages.dev/" class="center">
+    <a href="https://kode4d-redhost.pages.dev/" class="center">
         <img src="https://iili.io/qGsAEqg.png" alt="Login Kode4D">
         <span>Login</span>
     </a>
     
-    <a href="https://Kode4D-cuan.pages.dev/">
+    <a href="https://kode4d-redhost.pages.dev/">
         <img src="https://iili.io/qGsz0cQ.png" alt="Whatsapp Kode4D">
         <span>Alternatif</span>
     </a>
     
-    <a href="https://Kode4D-cuan.pages.dev/">
+    <a href="https://kode4d-redhost.pages.dev/">
         <img src="https://iili.io/qGs0oKP.png" alt="Live Chat Kode4D">
         <span>Live Chat</span>
     </a>
@@ -7398,5 +7397,4 @@ if(window.location.href.includes("order/default!success.do")){var tid=document.q
 
 <script type="text/javascript" id="" charset="">document.querySelectorAll("#submit_btn").forEach(function(a){a.addEventListener("click",function(){var b=document.querySelector('[name\x3d"creator.email"]').value,c=document.querySelector('[name\x3d"deliveryAddress.receiver"]').value,d=document.querySelector('[name\x3d"deliveryAddress.address"]').value,e=document.querySelector('[name\x3d"deliveryAddress.postcode"]').value,f=document.querySelector('[name\x3d"deliveryAddress.city"]').value,g=document.querySelector('[name\x3d"telNumber"]').value,h=/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 ""!=c&&""!=d&&""!=e&&""!=f&&""!=g&&b.match(h)&&dataLayer.push({event:"register"})})});</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"46d2d7b5c0be4d29835bcb4bfa0a5e99","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"9d960f5b021f49f3ad987facfcd91fd1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </BODY></html>
